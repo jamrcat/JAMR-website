@@ -1,0 +1,7 @@
+---
+title: ""
+---
+
+## Projects
+
+My current phase focuses on applied sport science at an elite baseball academy. At the Carlos Beltrán Baseball Academy, I am collecting, analyzing, and interpreting base running data (e.g., time- and speed-based data, spatiotemporal data, and force production). This includes integrating GPS tracking (VX Sport), foot pod IMU technology (Plantiga), and force data (Hawkin TruStrength). The objective is, as the same time a complete my PhD, I can improve the academy\'s baseball development program by identifying performance limiters, refining training interventions, and establishing measurable benchmarks aligned with long-term player development. Through systematic and long-term data collection and performance profiling, the program moves from intuition-based decisions toward structured, evidence-based training strategies.

@@ -1,0 +1,32 @@
+{
+  "about.qmd": {
+    "about.html": "2c5c7bfa"
+  },
+  "articles.qmd": {
+    "articles.html": "b89c5a6e"
+  },
+  "index.qmd": {
+    "index.html": "3a412568"
+  },
+  "notes.qmd": {
+    "notes.html": "4b78135b"
+  },
+  "projects.qmd": {
+    "projects.html": "cd5461ec"
+  },
+  "updates.qmd": {
+    "updates.html": "8849bd99"
+  },
+  "assets/articles/base_running_science.qmd": {
+    "base_running_science.html": "4b708a2b"
+  },
+  "contact.qmd": {
+    "contact.html": "a969f916"
+  },
+  "notes/base_running_article_discussion.qmd": {
+    "base_running_article_discussion.html": "60d91bec"
+  },
+  "articles/base_running_science.qmd": {
+    "base_running_science.html": "efcbd58f"
+  }
+}

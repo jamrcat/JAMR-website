@@ -1,0 +1,21 @@
+---
+title: "About"
+---
+
+\# About
+
+PhD Candidate - Sport Science \| First Puerto Rican at \@autuni \| Base Running Science \| Collecting data at HoF Carlos Beltrán Baseball Academy
+
+\## Background
+
+José Antonio Martínez-Rodríguez is a doctoral researcher in Sport and Exercise Science at Auckland University of Technology (AUT) and a member of the Sports Performance Research Institute New Zealand (SPRINZ), an internationally recognized center for applied sport science research. His work focuses on advancing base running performance in baseball through data-driven, sport-specific assessment and training, with particular emphasis on the often-overlooked demands of curvilinear sprinting in game contexts.\
+\
+José is internationally recognized for the development of the Curvilinear Ability Test (CAT), a novel, field-based assessment designed to quantify curvilinear sprinting and change-of-direction performance specific to baseball and softball. Complementing this applied innovation, he has contributed original research using MLB StatCast and Hawk-Eye data, establishing updated normative values for base running performance across Major League Baseball and demonstrating that linear sprint metrics alone fail to explain multiple base running success.\
+\
+His academic foundation includes a Master of Exercise Science (Exercise Physiology) from the University of Puerto Rico, Río Piedras Campus, where he developed strong competencies in experimental design, statistical analysis, and applied sport physiology. José is also a CSCS,D\* and possesses advanced expertise in high-frequency wearable technologies used for base running diagnostics, including IMU foot pod systems and GPS.\
+\
+Beyond research, José is deeply committed to capacity building and leadership within Puerto Rico\'s sport science and sport medicine community. His leadership philosophy emphasizes empowering emerging professionals to translate scientific data into applied practice, strengthening sport medicine--performance--athlete--stakeholder collaboration, and proactively addressing both acute and chronic injury risk through informed decision-making.
+
+\## What I'm building
+
+José\'s long-term professional objective is to bridge base running science with applied baseball environments by contributing within an MLB organization or elite baseball academy. His mission is to lead a cultural shift toward scientifically grounded base running development, transforming data into information, information into knowledge, and knowledge into best practice, while ensuring that Puerto Rican, American, and international baseball talent is developed to its full athletic and health potential.
