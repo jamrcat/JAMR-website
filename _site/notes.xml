@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>José Antonio Martínez-Rodríguez</title>
+<link>https://jamrbaserunningscience.netlify.app/notes.html</link>
+<atom:link href="https://jamrbaserunningscience.netlify.app/notes.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.3.353</generator>
+<lastBuildDate>Wed, 01 Jan 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>ArmCare.com: Transform Your Baseball Performance with New Sprinting Science</title>
+  <link>https://jamrbaserunningscience.netlify.app/notes/ArmCare.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><a href="https://blog.armcare.com/transform-your-baseball-performance-with-new-sprinting-science/?utm_source=ig&amp;utm_medium=social&amp;utm_content=link_in_bio&amp;fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnci0VfcaXvIFdBaiaTD_hMiaSzbeXDOj-NXcmoECOXdvd5m57uY2zhAlKlIE_aem_MJIxhHGhiU7Isk1EmqkESw">Read the full note</a></p>
+
+
+
+ ]]></description>
+  <category>Base Running</category>
+  <category>Sprinting</category>
+  <category>Training</category>
+  <guid>https://jamrbaserunningscience.netlify.app/notes/ArmCare.html</guid>
+  <pubDate>Wed, 01 Jan 2025 04:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

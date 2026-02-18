@@ -8,4 +8,5 @@ listing:
   sort: "date desc"
   fields: [image, title, description, date]
   image-height: 180px
+  feed: true
 ---

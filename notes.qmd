@@ -2,6 +2,7 @@
 title: "Notes"
 listing:
   contents: notes
+  feed: true
   type: default
   sort: "date desc"
   fields: [title, description, date, categories]
