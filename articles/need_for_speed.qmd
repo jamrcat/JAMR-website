@@ -8,7 +8,8 @@ description: >
 
 categories: [Base Running, Sprinting, Profiling]
 
-image: ../notes/Speed.png
+image: Speed.png
+
 ---
 
 ## Context
@@ -34,12 +35,11 @@ For players expected to advance multiple bases, curvilinear sprint testing shoul
 From a performance and injury prevention perspective, recognizing the mechanical differences between linear and curvilinear sprinting allows for more targeted neuromuscular preparation. Curved sprinting alters ground contact times and force distribution patterns, which may influence tissue loading and asymmetry. Therefore, integrating force profiling and sprint analysis may not only enhance performance but also reduce injury risk.
 
 Overall, the article reinforces that base running performance is not a singular speed quality but rather a complex interaction of acceleration, force application, and movement specificity. Programs that differentiate and train these components are more likely to produce meaningful improvements in competitive outcomes.
+image: ../assets/articles/CAT.png
 
 ---
 
-![](../notes/Speed.png){fig-alt="Speed characteristics in MLB players" width=700}
+![](../articles/Speed.png)
 
 
-## Link to original article##
-
-[Read the original](https://www.researchgate.net/publication/387056050_The_Need_for_Speed_Linear_and_Curvilinear_Characteristics_in_Major_League_Baseball_Players){target="_blank"}
+[Read the full article](https://www.researchgate.net/publication/387056050_The_Need_for_Speed_Linear_and_Curvilinear_Characteristics_in_Major_League_Baseball_Players){target="_blank"}

@@ -1,7 +1,7 @@
 ---
 title: "Notes"
 listing:
-  contents: notes/base_running_article_discussion.qmd
+  contents: notes
   type: default
   sort: "date desc"
   fields: [title, description, date, categories]

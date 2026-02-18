@@ -1,10 +1,10 @@
 {
   "listingMap": {
     "articles.qmd": [
-      "articles/base_running_science.qmd"
+      "articles"
     ],
     "notes.qmd": [
-      "notes/base_running_article_discussion.qmd"
+      "notes"
     ]
   }
 }

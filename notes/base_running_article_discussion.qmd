@@ -1,45 +1,14 @@
 ---
-title: "The need for speed: Linear and curvilinear characteristics in Major League Baseball players"
+title: "ArmCare.com: Transform Your Baseball Performance with New Sprinting Science"
 
-date: 2024-11-30
+date: 2025-01
 
 description: >
-  The main aims of this study were to determine: 1) current values of base running key performance indicators related to home-to-first base running and running multiple bases; 2) how KPIs are related to each other; and 3) the influence of these measures on stealing and running two bases. Data on 475 players across 30 teams was collated from Baseball Savant, Baseball Reference, and Lahman databases for the 2019 to 2023 Major League Baseball (MLB) season, which involved coding 924 player events. The main findings were: a) the averaged base running speed for this sample of MLB players was 8.35 ± 0.39 m.s-1 (27.41 ± 1.27 ft*s-1); b) home-to-first base time averaged 4.41 ± 0.18 s; c) in the first 13.7 m of the run to first base, base runners had achieved 84% of their maximum 24.7 m speed, which was near maximal given the minimal change in acceleration (fourth segment = 0.39 m/s2); d) the players who stole the most bases had the highest speeds and accelerations; and, e) higher linear speed and acceleration were not observed amongst players who ran two bases. From this data, it could be inferred that traditional linear running measures are important predictors of running single bases; however, other factors seem important for the curvilinear running two bases. It may be that base runners need to be assessed and trained for linear and curvilinear sprint ability rather than assuming that improvement in linear speed via assessment and training, translates to improved multiple base running.
+  Curvilinear sprinting requires unique biomechanical adaptations that differ significantly from linear sprinting. By understanding the forces and muscle activation patterns involved in running curves, athletes can train more effectively and reduce injury risks. Mastering these mechanics is essential for baseball players to improve base-running efficiency and overall performance. With targeted strength and technique training, players can build the stability, power, and coordination necessary to excel in curved trajectories, enhancing both their athletic potential and durability on the field. 
 
-categories: [Base Running, Sprinting, Profiling]
-
-image: ../notes/Speed.png
----
-
-## Context
-
-This article is important because it provides contemporary, game-derived sprint performance data from 475 Major League Baseball (MLB) players using high-resolution StatCast-Hawk-Eye tracking technology. Unlike earlier research that relied on hand timing or laboratory sprint tests, this study analyzes actual in-game performance metrics, making the findings highly ecologically valid. By examining linear and curvilinear sprint characteristics within real competition, the article bridges the gap between traditional sprint testing and baseball-specific performance demands. This represents a significant advancement in understanding how speed manifests in elite baseball contexts rather than in generalized track-based assessments.
-
-Additionally, the study challenges the long-standing assumption that linear sprint speed alone determines base running success. It demonstrates that while early acceleration strongly predicts stolen base performance, it does not adequately explain performance in running two bases, which requires curvilinear sprint ability. This distinction is critical because it reveals that base running performance is biomechanically multidimensional. By differentiating linear and curvilinear sprint characteristics, the article reframes base running as a specific performance domain that requires targeted assessment and training strategies.
-
-## Key claims
-
-One of the central claims of the article is that early linear acceleration, particularly within the first 13.7 meters (approximately 15 yards), is a primary determinant of successful stolen base performance. Players with higher acceleration capabilities and faster home-to-first times were more likely to succeed in stolen base attempts. This finding emphasizes the importance of short-distance acceleration rather than maximal velocity when evaluating base stealing ability.
-
-A second key claim is that linear sprint speed does not predict performance when running two bases, such as advancing from home to second. Unlike stolen base attempts, which are predominantly linear, advancing two bases requires navigating the curvature of the base path. The study suggests that curvilinear sprinting involves different mechanical and force application demands compared to straight-line sprinting. Therefore, improvements in linear sprint metrics may not necessarily transfer to curvilinear running performance.
-
-Finally, the authors argue that base runners should be assessed and trained for both linear and curvilinear sprint characteristics. Relying exclusively on traditional sprint metrics (e.g., 60-yard dash times) may provide an incomplete evaluation of in-game base running ability. This reinforces the need for more sport-specific performance profiling within professional baseball environments.
-
-## Practical takeaways
-
-The findings of this article have direct implications for assessment protocols in baseball performance programs. Practitioners should prioritize early acceleration testing, particularly 0-5 m and 0-15 m splits, when evaluating stolen base potential. Emphasizing acceleration metrics rather than maximal velocity alone provides a more accurate representation of performance during base stealing scenarios.
-
-For players expected to advance multiple bases, curvilinear sprint testing should be incorporated into evaluation batteries. This may include bend sprint assessments, curved sprint drills, and analysis of inside-leg versus outside-leg force production. Training programs should integrate curvilinear sprint mechanics, deceleration control, and re-acceleration capabilities to better reflect game-specific movement demands.
-
-From a performance and injury prevention perspective, recognizing the mechanical differences between linear and curvilinear sprinting allows for more targeted neuromuscular preparation. Curved sprinting alters ground contact times and force distribution patterns, which may influence tissue loading and asymmetry. Therefore, integrating force profiling and sprint analysis may not only enhance performance but also reduce injury risk.
-
-Overall, the article reinforces that base running performance is not a singular speed quality but rather a complex interaction of acceleration, force application, and movement specificity. Programs that differentiate and train these components are more likely to produce meaningful improvements in competitive outcomes.
+categories: [Base Running, Sprinting, Training]
 
 ---
 
-![](../notes/Speed.png){fig-alt="Speed characteristics in MLB players" width=700}
+[Read the full note](https://blog.armcare.com/transform-your-baseball-performance-with-new-sprinting-science/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnci0VfcaXvIFdBaiaTD_hMiaSzbeXDOj-NXcmoECOXdvd5m57uY2zhAlKlIE_aem_MJIxhHGhiU7Isk1EmqkESw)
 
-
-## Link to original article##
-
-[Read the original](https://www.researchgate.net/publication/387056050_The_Need_for_Speed_Linear_and_Curvilinear_Characteristics_in_Major_League_Baseball_Players){target="_blank"}

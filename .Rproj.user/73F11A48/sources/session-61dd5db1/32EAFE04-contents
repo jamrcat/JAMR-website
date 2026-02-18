@@ -1,9 +1,0 @@
----
-title: "Notes"
-listing:
-  contents: notes/base_running_article_discussion.qmd
-  type: default
-  sort: "date desc"
-  fields: [title, description, date, categories]
-  image-height: 180px
----

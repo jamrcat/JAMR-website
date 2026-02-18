@@ -2,7 +2,7 @@
 title: "Articles"
 page-layout: full
 listing:
-  contents: articles/base_running_science.qmd
+  contents: articles
   type: grid
   grid-columns: 2
   sort: "date desc"
