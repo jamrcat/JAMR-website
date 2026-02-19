@@ -1,6 +1,14 @@
 ---
-title: "Contact"
+title: ""
 ---
 
-[LinkedIn](https://linkedin.com/in/jamr2021){target="_blank"}
-[Instagram](https://instagram.com/jamrcat){target="_blank"}
+## Contact
+
+<div class="contact-row">
+
+<a class="pill" href="https://www.linkedin.com/in/jamr2021" target="_blank">LinkedIn</a>
+<a class="pill" href="https://instagram.com/jamrcat" target="_blank">Instagram</a>
+
+</div>
+
+<p class="contact-note">For now, the best way to reach me is through my social channels above.</p>

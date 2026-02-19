@@ -1,56 +1,86 @@
 ---
 title: ""
+page-layout: full
 ---
 
 <div class="hero-section">
 
-<img src="assets/me.jpg" width="300" style="border-radius:16px; margin-bottom:20px;">
+<img src="assets/me.jpg" width="280" style="border-radius:16px;">
 
 # José Antonio Martínez-Rodríguez
 
-Base Running Science
+**Base Running Science**
 
-------------------------------------------------------------------------
+Doctoral researcher (Sport & Exercise Science, AUT) · SPRINZ · Curvilinear sprinting & base running ability
 
-## Brief bio
+</div>
 
-José Antonio Martínez-Rodríguez is a doctoral researcher in Sport and Exercise Science at Auckland University of Technology (AUT) and a member of the Sports Performance Research Institute New Zealand (SPRINZ), an internationally recognized center for applied sport science research. His work focuses on advancing base running performance in baseball through data-driven, sport-specific assessment and training, with particular emphasis on the often-overlooked demands of curvilinear sprinting in game contexts.
+## Featured article
 
-------------------------------------------------------------------------
+<div class="feature-card">
 
-## Extended Bio
+<img src="assets/articles/Speed.png" alt="Featured article image" class="feature-image">
 
-José Antonio Martínez-Rodríguez PhD(c), MExSc, CSCS,*D is internationally recognized for the development of the Curvilinear Ability Test (CAT), a novel, field-based assessment designed to quantify curvilinear sprinting and change-of-direction performance specific to baseball and softball. Complementing this applied innovation, he has contributed original research using MLB StatCast and Hawk-Eye data, establishing updated normative values for base running performance across Major League Baseball and demonstrating that linear sprint metrics alone fail to explain multiple base running success.
+<div class="feature-body">
 
-His academic foundation includes a Master of Exercise Science (Exercise Physiology) from the University of Puerto Rico, Río Piedras Campus, where he developed strong competencies in experimental design, statistical analysis, and applied sport physiology. José is also a CSCS,D\* and possesses advanced expertise in high-frequency wearable technologies used for base running diagnostics, including IMU foot pod systems and GPS.
+<div class="feature-meta">Nov 30, 2024 · Base Running</div>
 
-Beyond research, José is deeply committed to capacity building and leadership within Puerto Rico's sport science and sport medicine community. His leadership philosophy emphasizes empowering emerging professionals to translate scientific data into applied practice, strengthening sport medicine--performance--athlete--stakeholder collaboration, and proactively addressing both acute and chronic injury risk through informed decision-making.
+### The need for speed: Linear and curvilinear characteristics in MLB players
 
-José's long-term professional objective is to bridge base running science with applied baseball environments by contributing within an MLB organization or elite baseball academy. His mission is to lead a cultural shift toward scientifically grounded base running development, transforming data into information, information into knowledge, and knowledge into best practice, while ensuring that Puerto Rican, American, and international baseball talent is developed to its full athletic and health potential.
+A game-derived profile of base running KPIs using StatCast/Hawk-Eye data, with implications for assessing curvilinear sprint ability beyond linear speed metrics.
 
-------------------------------------------------------------------------
+<a class="btn-primary" href="articles/the-need-for-speed.html">Read the article →</a>
+
+</div>
+</div>
+
+## About
+
+I am a doctoral researcher in Sport and Exercise Science at Auckland University of Technology (AUT) and a member of the Sports Performance Research Institute New Zealand (SPRINZ). My work focuses on advancing base running performance in baseball through data-driven, sport-specific assessment and training—particularly the often-overlooked demands of **curvilinear sprinting** in game contexts.
 
 ## Base Running Science
 
-Base Running Science is my long-term development professional project. I am building an independent, evidence-based framework centered on how athletes maintain speed through the curvilinear paths during real game situations, whilst running multiple bases. This work is designed to support organizations, academies, practitioners and players, through collaboration, education, and sharing of my applied research in base running diagnostics and exercise prescription.
-
-------------------------------------------------------------------------
+Base Running Science is my long-term professional project: an independent, evidence-based framework centered on how athletes **maintain speed through curvilinear paths** during real game situations while running multiple bases. The goal is to support organizations, academies, practitioners, and players through collaboration, education, and the application of base running diagnostics and exercise prescription.
 
 ## Why it matters
 
-Base running performance directly impacts baseball outcomes. Yet it remains one of the least studied and integrated movement domains in baseball. By exploring curvilinear and linear sprint ability and force application, we can lead a cultural shift toward scientifically grounded base running development, transforming data into information, information into knowledge, and knowledge into best practice.
+Base running performance directly impacts baseball outcomes, yet it remains one of the least studied and integrated movement domains in the sport. By profiling **linear and curvilinear sprint ability**—and how athletes apply force in these contexts—we can drive a cultural shift toward scientifically grounded base running development: turning data into information, information into knowledge, and knowledge into best practice.
 
-------------------------------------------------------------------------
+## Research highlights
 
-## Research Highlights
+<div class="cards">
 
--   **Project 1** --- In progress\
--   **Project 2** --- In Progress\
--   **Project 3** --- In progress
+<div class="card">
+<div class="card-title">Curvilinear Ability Test (CAT)</div>
+<div class="card-text">Field-based assessment to quantify curvilinear sprinting + change-of-direction performance specific to baseball/softball.</div>
+</div>
 
-------------------------------------------------------------------------
+<div class="card">
+<div class="card-title">MLB StatCast / Hawk-Eye profiling</div>
+<div class="card-text">Normative KPI values across MLB and evidence that linear sprint metrics alone don’t explain multi-base running success.</div>
+</div>
 
-## Selected Writing
+<div class="card">
+<div class="card-title">Applied diagnostics</div>
+<div class="card-text">Wearable + tracking-informed evaluation to guide training decisions, performance, and injury-risk management.</div>
+</div>
 
-[Browse all articles →](articles.qmd)\
-[Read deep dives →](notes.qmd)
+</div>
+
+## Selected writing
+
+- [Browse all articles →](articles.qmd)
+- [Read blogs →](notes.qmd)
+
+<details>
+<summary><strong>Background (extended bio)</strong></summary>
+
+José Antonio Martínez-Rodríguez PhD(c), MExSc, CSCS,*D is internationally recognized for the development of the Curvilinear Ability Test (CAT), a novel field-based assessment designed to quantify curvilinear sprinting and change-of-direction performance specific to baseball and softball. Complementing this applied innovation, he has contributed original research using MLB StatCast and Hawk-Eye data, establishing updated normative values for base running performance across Major League Baseball and demonstrating that linear sprint metrics alone fail to explain multiple base running success.
+
+His academic foundation includes a Master of Exercise Science (Exercise Physiology) from the University of Puerto Rico, Río Piedras Campus, with competencies in experimental design, statistical analysis, and applied sport physiology. José is also a CSCS,*D and has experience with wearable technologies for diagnostics, including IMU foot pod systems and GPS.
+
+Beyond research, José is committed to capacity building and leadership within Puerto Rico's sport science and sport medicine community. His leadership philosophy emphasizes empowering emerging professionals to translate scientific data into applied practice and strengthening sport medicine–performance collaboration.
+
+José’s long-term objective is to bridge base running science with applied baseball environments by contributing within an MLB organization or elite baseball academy—leading a shift toward scientifically grounded base running development.
+
+</details>

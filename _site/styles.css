@@ -1,88 +1,326 @@
-body {
-font-size: 18px;
-line-height: 1.7;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+body{
+  font-family: "Inter", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.75;
 }
 
-main.content {
-max-width: 900px;
-margin: 0 auto;
+
+:root{
+  --maxw: 820px;
 }
 
-h1, h2, h3 {
-font-weight: 500;
+/* Base typography */
+body{
+  font-size: 18px;
+  line-height: 1.75;
 }
 
-.navbar {
-font-size: 16px;
+/* Content width + spacing */
+main.content{
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding-top: 56px;
+  padding-bottom: 80px;
 }
 
-/* Default: left align everything */
-h1, h2, h3, p, li {
-  text-align: left;
+p{ margin: 0 0 18px; }
+
+/* Headings */
+h1{ font-weight: 700; letter-spacing: -0.6px; }
+h2{
+  font-weight: 600;
+  letter-spacing: -0.3px;
+  margin-top: 52px;
+  margin-bottom: 14px;
+}
+h3{
+  font-weight: 600;
+  margin-top: 32px;
 }
 
-/* Default images: not centered */
-img {
-  border-radius: 16px;
+h2 + p{ margin-top: 10px; }
+
+/* Default alignment: LEFT everywhere */
+main.content, main.content *{
+  text-align: left !important;
+}
+
+/* Images default */
+img{
+  border-radius: 14px;
+  max-width: 100%;
+  height: auto;
   display: block;
   margin: 18px 0;
 }
 
-/* Center ONLY the hero section (Home) */
-.hero-section {
-  text-align: center;
-  max-width: 700px;
-  margin: 60px auto;
+/* Hero: the only centered area */
+.hero-section{
+  text-align: center !important;
+  max-width: 720px;
+  margin: 42px auto 10px;
 }
-
-.hero-section h1,
-.hero-section p,
-.hero-section img {
-  text-align: center;
+.hero-section *{
+  text-align: center !important;
+}
+.hero-section img{
   margin-left: auto;
   margin-right: auto;
 }
 
-.contact-form iframe {
-  border: 0;
+/* Links: modern subtle underline */
+a{
+  text-decoration: none;
+  border-bottom: 1px solid rgba(0,0,0,0.15);
+}
+a:hover{
+  border-bottom-color: rgba(0,0,0,0.55);
 }
 
-.contact-form {
-  max-width: 900px;
+/* Navbar */
+.navbar{
+  font-size: 15px;
+}
+.navbar a.nav-link{
+  opacity: 0.85;
+}
+.navbar a.nav-link:hover{
+  opacity: 1;
+}
+
+/* Articles grid cards */
+.quarto-grid-item{
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid rgba(0,0,0,0.08);
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+.quarto-grid-item:hover{
+  transform: translateY(-4px);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.10);
+}
+
+/* Contact form (if used) */
+.contact-form iframe{ border: 0; }
+.contact-form{
+  max-width: var(--maxw);
   margin: 0 auto;
 }
 
-/* Make main content left-aligned */
-.quarto-container {
-  margin-left: 0 !important;
+/* ---------- SECTION RHYTHM ---------- */
+
+section, .quarto-section {
+  margin-bottom: 90px;
 }
 
-.content {
-  text-align: left;
-  max-width: 900px;
-  margin-left: 0;
+/* Light divider under main sections */
+h2 {
+  position: relative;
+  padding-bottom: 8px;
 }
+
+h2::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 36px;
+  height: 2px;
+  background: rgba(0,0,0,0.12);
+}
+
+/* ---------- SUBTLE DEPTH ---------- */
+
+/* Slight page softness */
+body {
+  background-color: #fcfcfc;
+}
+
+/* Slight container lift */
+main.content {
+  background: white;
+}
+
+/* ---------- HERO REFINEMENT ---------- */
 
 .hero-section {
-  text-align: center;
-  max-width: 700px;
-  margin: 60px auto;
+  margin-bottom: 40px;
 }
 
-/* FORCE all normal page content to the left */
-main.content h1,
-main.content h2,
-main.content h3,
-main.content p,
-main.content li {
-  text-align: left !important;
+.hero-section h1 {
+  font-size: 2.4rem;
 }
 
-/* Keep hero section centered */
-.hero-section,
-.hero-section h1,
-.hero-section h2,
-.hero-section p,
-.hero-section img {
-  text-align: center !important;
+.hero-section strong {
+  font-weight: 600;
+  opacity: 0.85;
+}
+
+/* ---------- ARTICLE GRID POLISH ---------- */
+
+.quarto-grid-item img {
+  border-bottom: 1px solid rgba(0,0,0,0.06);
+}
+
+/* Subtle metadata styling */
+.quarto-grid-item .listing-date {
+  font-size: 0.85rem;
+  opacity: 0.6;
+  margin-top: 4px;
+}
+
+/* ---------- NAVBAR REFINEMENT ---------- */
+
+.navbar {
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+
+/* Active nav underline */
+.navbar .nav-link.active {
+  border-bottom: 2px solid rgba(0,0,0,0.25);
+}
+
+/* ---------- DETAILS (EXTENDED BIO) ---------- */
+
+details {
+  border-top: 1px solid rgba(0,0,0,0.08);
+  padding-top: 18px;
+  margin-top: 30px;
+}
+
+summary {
+  font-weight: 600;
+  cursor: pointer;
+  list-style: none;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary::after {
+  content: " +";
+  font-weight: 400;
+}
+
+details[open] summary::after {
+  content: " −";
+}
+
+/* Featured article block */
+.feature-card{
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 18px;
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 16px;
+  overflow: hidden;
+  padding: 0;
+  margin-top: 14px;
+}
+
+.feature-image{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 0;
+  margin: 0;
+}
+
+.feature-body{
+  padding: 18px 18px 18px 0;
+}
+
+.feature-meta{
+  font-size: 0.9rem;
+  opacity: 0.65;
+  margin-bottom: 8px;
+}
+
+.btn-primary{
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: 1px solid rgba(0,0,0,0.12);
+  text-decoration: none;
+}
+
+.btn-primary:hover{
+  border-color: rgba(0,0,0,0.25);
+}
+
+/* Research highlight cards */
+.cards{
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 14px;
+}
+
+.card{
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 16px;
+  padding: 16px;
+  background: #fff;
+}
+
+.card-title{
+  font-weight: 650;
+  letter-spacing: -0.2px;
+  margin-bottom: 8px;
+}
+
+.card-text{
+  opacity: 0.9;
+}
+
+/* Contact pills */
+.contact-row{
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.pill{
+  display: inline-block;
+  padding: 10px 14px;
+  border-radius: 999px;
+  border: 1px solid rgba(0,0,0,0.12);
+  text-decoration: none;
+}
+
+.pill:hover{
+  border-color: rgba(0,0,0,0.25);
+}
+
+.contact-note{
+  opacity: 0.8;
+  margin-top: 12px;
+}
+
+/* Responsive */
+@media (max-width: 900px){
+  .cards{ grid-template-columns: 1fr; }
+  .feature-card{ grid-template-columns: 1fr; }
+  .feature-body{ padding: 16px; }
+}
+
+/* Subtle motion (respects reduced motion) */
+@media (prefers-reduced-motion: no-preference) {
+  .hero-section {
+    animation: fadeUp 420ms ease-out both;
+  }
+  .feature-card, .card, .pill {
+    animation: fadeUp 520ms ease-out both;
+  }
+  .card:nth-child(2) { animation-delay: 60ms; }
+  .card:nth-child(3) { animation-delay: 120ms; }
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
 }
