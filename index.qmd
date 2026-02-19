@@ -19,7 +19,7 @@ Doctoral researcher (Sport & Exercise Science, AUT) · SPRINZ · Curvilinear spr
 
 <div class="feature-card">
 
-<img src="assets/articles/Speed.png" alt="Featured article image" class="feature-image">
+<img src="articles/Speed.png" alt="Featured article image" class="feature-image">
 
 <div class="feature-body">
 
@@ -29,8 +29,7 @@ Doctoral researcher (Sport & Exercise Science, AUT) · SPRINZ · Curvilinear spr
 
 A game-derived profile of base running KPIs using StatCast/Hawk-Eye data, with implications for assessing curvilinear sprint ability beyond linear speed metrics.
 
-<a class="btn-primary" href="articles/the-need-for-speed.html">Read the article →</a>
-
+<a class="btn-primary" href="articles/need_for_speed.html">Read the article →</a>
 </div>
 </div>
 
