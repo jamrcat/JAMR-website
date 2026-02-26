@@ -10,7 +10,53 @@
 <atom:link href="https://jamrbaserunningscience.netlify.app/articles.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.353</generator>
-<lastBuildDate>Sat, 30 Nov 2024 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Feb 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Between-Session Reliability of GPS Technology for Quantifying Linear and Curvilinear Base-Running Performance</title>
+  <link>https://jamrbaserunningscience.netlify.app/articles/GPS_reliability.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="context" class="level2">
+<h2 class="anchored" data-anchor-id="context">Context</h2>
+<p>The first peer-reviewed scientific publication emerging from the Carlos Beltran Baseball Academy—an institution inspired by the standards of a Hall of Famer—marks a decisive step forward in Sport Science by placing Base Running Science at the forefront of evidence-based baseball performance.</p>
+<p>This peer-reviewed investigation, published in Applied Sciences (2026), evaluated the between-session reliability of 10 Hz GPS technology for quantifying linear (home-to-first) and curvilinear (home-to-second) base-running performance over 54.7 m in trained high school baseball athletes</p>
+<p>The study applied a repeated-measures design across three sessions and examined systematic change, absolute reliability (coefficient of variation, CV), relative reliability (intraclass correlation coefficient, ICC), and practical sensitivity via smallest worthwhile change (SWC).</p>
+<p>Key findings of direct relevance to baseball performance departments include:</p>
+<p>1, <strong>No statistically significant systematic bias</strong> across sessions for linear or curvilinear metrics.</p>
+<ol start="2" type="1">
+<li><p><strong>High absolute reliability</strong>, with all CVs &lt;10% and 93% &lt;5%, meeting accepted sport science thresholds for monitoring.</p></li>
+<li><p><strong>Strong relative reliability</strong> for most time- and speed-based metrics (ICCs frequently &gt;0.75, many &gt;0.90).</p></li>
+<li><p><strong>Practically sensitive metrics</strong> (TE ≤ SWC) included:</p></li>
+</ol>
+<ol type="a">
+<li><p>Linear sprint: time to 41.1 m and 54.7 m; velocity at 27.4 m and 41.1 m.</p></li>
+<li><p>Curvilinear sprint: speed at 41.1 m; peak speed before first base; peak speed before second base and after first base.</p></li>
+</ol>
+<p>Importantly, the study advanced beyond traditional timing gates by quantifying velocity-time-distance signatures across true game-specific curvilinear paths (home-to-second), including acceleration, modulation entering first base, and re-acceleration phases. For MLB organizations and performance shareholders, this provides validated, baseball-specific monitoring variables capable of informing return-to-play decisions, longitudinal talent tracking, workload management, and individualized base-running prescriptions.</p>
+<p>Objectively, this article represents a structural advancement in base-running research for three reasons:</p>
+<ol type="1">
+<li><p><strong>First Reliability Framework for True Baseball Curvilinear Running</strong>: Prior GPS reliability work largely examined soccer or track-based semi-circular protocols. This study uniquely validated GPS metrics using the authentic home-to-second base trajectory, directly reflecting in-game mechanics</p></li>
+<li><p><strong>Integration of Reliability with Practical Sensitivity (SWC vs.&nbsp;TE)</strong>: By formally comparing typical error against smallest worthwhile change, the paper moves the field from descriptive measurement toward decision-making science—critical for MLB high-performance departments.</p></li>
+<li><p><strong>Establishment of Monitoring Benchmarks</strong>: The identification of specific robust metrics (e.g., speed at 41.1 m in both linear and curvilinear contexts) provides the first evidence-based recommendation set tailored specifically to baseball base running.</p></li>
+</ol>
+<p>Within the broader sport science ecosystem, base running has historically been under-quantified relative to pitching biomechanics and hitting analytics. This publication elevates base running from observational coaching practice to a quantifiable performance domain with validated measurement parameters. As a result, it positions Base Running Science as a legitimate sub-discipline within applied baseball performance research.</p>
+<p>For the Carlos Beltran Baseball Academy, this work does more than contribute data—it establishes institutional credibility in peer-reviewed sport science, signaling a transition from development academy to research-driven performance leader.</p>
+<hr>
+<p><img src="https://jamrbaserunningscience.netlify.app/articles/GPS_reliability.png" class="img-fluid"></p>
+<p><strong>Where it’s published:</strong></p>
+<p><a href="https://www.mdpi.com/2076-3417/16/5/2224" target="_blank">Read the full article</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>velocity-time-distance measures; high school; baseball</category>
+  <guid>https://jamrbaserunningscience.netlify.app/articles/GPS_reliability.html</guid>
+  <pubDate>Wed, 25 Feb 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://jamrbaserunningscience.netlify.app/articles/GPS_reliability.png" medium="image" type="image/png" height="176" width="144"/>
+</item>
 <item>
   <title>The need for speed: Linear and curvilinear characteristics in Major League Baseball players</title>
   <link>https://jamrbaserunningscience.netlify.app/articles/need_for_speed.html</link>
