@@ -37,5 +37,8 @@
   },
   "articles/GPS_reliability.qmd": {
     "GPS_reliability.html": "1cf0327f"
+  },
+  "articles/IMU_reliability.qmd": {
+    "IMU_reliability.html": "d08eabc2"
   }
 }

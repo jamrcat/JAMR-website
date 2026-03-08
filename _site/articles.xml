@@ -10,7 +10,71 @@
 <atom:link href="https://jamrbaserunningscience.netlify.app/articles.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.353</generator>
-<lastBuildDate>Wed, 25 Feb 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Mar 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Between-Session Reliability of GPS Technology for Quantifying Linear and Curvilinear Base-Running Performance</title>
+  <link>https://jamrbaserunningscience.netlify.app/articles/IMU_reliability.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="context" class="level2">
+<h2 class="anchored" data-anchor-id="context">Context</h2>
+<p>This study examined the reliability of in-shoe inertial measurement unit (IMU) foot pod technology for quantifying kinematic variables during baseball base running.</p>
+<p>The research evaluated whether foot pod sensors embedded in athletes’ shoes could reliably measure step-by-step mechanics during both linear sprinting (54.7 m) and curvilinear base running (home-to-second base).</p>
+<p><strong>Technology Used</strong></p>
+<p>The study used Plantiga foot pod sensors, which contain:</p>
+<p>6-axis inertial measurement units</p>
+<p>Triaxial accelerometers</p>
+<p>Triaxial gyroscopes</p>
+<p>Sampling frequency of 416 Hz</p>
+<p>These sensors allow practitioners to measure detailed biomechanical variables at the step level, providing deeper insight into the mechanical demands of base running.</p>
+<p><strong>Variables Analyzed</strong></p>
+<p>The study quantified several key kinematic metrics relevant to baseball base running:</p>
+<p>Maximum speed</p>
+<p>Average speed</p>
+<p>Ground contact time (left and right foot)</p>
+<p>Stride length</p>
+<p>Push-off acceleration</p>
+<p>Impact acceleration</p>
+<p>These metrics were analyzed across three baseball-specific running segments:</p>
+<p>Home to first base</p>
+<p>First to second base</p>
+<p>Home to second base</p>
+<p>This segmental analysis provides a deeper understanding of the mechanical differences between straight-line sprinting and curve running.</p>
+<p><strong>Key Findings</strong></p>
+<p>The results demonstrated strong reliability across most kinematic variables, indicating that IMU foot pod technology can be used to confidently monitor base-running mechanics.</p>
+<p>Major findings included:</p>
+<p>No statistically significant performance changes between testing sessions</p>
+<p>94% of coefficient of variation values were below 10%</p>
+<p>Most reliability coefficients showed good to excellent intraclass correlation values</p>
+<p>The majority of measurements demonstrated high stability across testing days.</p>
+<p>These results indicate that foot pod technology is a reliable tool for assessing baseball base running mechanics.</p>
+<p><strong>Practical Applications</strong></p>
+<p>Foot pod technology provides coaches and sport scientists with a deeper biomechanical understanding of base running, which can be used to improve athlete development.</p>
+<p>Applications include:</p>
+<p><strong>Base Running Diagnostics</strong></p>
+<p>Identifying mechanical inefficiencies during curve running</p>
+<p><strong>Performance Optimization</strong></p>
+<p>Understanding stride mechanics and force application during base running</p>
+<p><strong>Training Prescription</strong></p>
+<p>Designing drills to improve stride efficiency and acceleration patterns</p>
+<p><strong>Injury Risk Management</strong></p>
+<p>Monitoring asymmetries between the inside and outside legs during curvilinear running</p>
+<p>These insights allow practitioners to move beyond simple timing data and toward mechanically informed base-running coaching.</p>
+<hr>
+<p><img src="https://jamrbaserunningscience.netlify.app/articles/IMU_reliability.png" class="img-fluid"></p>
+
+
+</section>
+
+ ]]></description>
+  <category>kinematic measures</category>
+  <category>high-frequency technology</category>
+  <guid>https://jamrbaserunningscience.netlify.app/articles/IMU_reliability.html</guid>
+  <pubDate>Thu, 05 Mar 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://jamrbaserunningscience.netlify.app/articles/IMU_reliability.png" medium="image" type="image/png" height="110" width="144"/>
+</item>
 <item>
   <title>Between-Session Reliability of GPS Technology for Quantifying Linear and Curvilinear Base-Running Performance</title>
   <link>https://jamrbaserunningscience.netlify.app/articles/GPS_reliability.html</link>

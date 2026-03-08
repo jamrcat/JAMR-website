@@ -19,17 +19,17 @@ Doctoral researcher (Sport & Exercise Science, AUT) · SPRINZ · Curvilinear spr
 
 <div class="feature-card">
 
-<img src="articles/Speed.png" alt="Featured article image" class="feature-image">
+<img src="articles/GPS_reliability.png" alt="Featured article image" class="feature-image">
 
 <div class="feature-body">
 
 <div class="feature-meta">Nov 30, 2024 · Base Running</div>
 
-### The need for speed: Linear and curvilinear characteristics in MLB players
+### Between-Session Reliability of GPS Technology for Quantifying Linear and Curvilinear Base-Running Performance
 
-A game-derived profile of base running KPIs using StatCast/Hawk-Eye data, with implications for assessing curvilinear sprint ability beyond linear speed metrics.
+This peer-reviewed investigation, published in Applied Sciences (2026), evaluated the between-session reliability of 10 Hz GPS technology for quantifying linear (home-to-first) and curvilinear (home-to-second) base-running performance over 54.7 m in trained high school baseball athletes.
 
-<a class="btn-primary" href="articles/need_for_speed.html">Read the article →</a>
+<a class="btn-primary" href="articles/GPS_reliability.html">Read the article →</a>
 </div>
 </div>
 
