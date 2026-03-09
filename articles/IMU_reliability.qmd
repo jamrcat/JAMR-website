@@ -1,5 +1,5 @@
 ---
-title: "Between-Session Reliability of GPS Technology for Quantifying Linear and Curvilinear Base-Running Performance"
+title: "Improving Base Runningwith Foot Pod Technology: Intersession Reliability of Linear and Curvilinear Running Performance"
 
 date: 2026-03-05
 
