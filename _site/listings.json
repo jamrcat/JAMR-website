@@ -2,10 +2,11 @@
   {
     "listing": "/articles.html",
     "items": [
-      "/articles/IMU_reliability.html",
-      "/articles/GPS_reliability.html",
-      "/articles/need_for_speed.html",
-      "/articles/base_running_science.html"
+      "/articles/article_7/IMU_reliability.html",
+      "/articles/article_5/GPS_reliability.html",
+      "/articles/article_9/Asymmetry.html",
+      "/articles/article_2/need_for_speed.html",
+      "/articles/article_3/base_running_science.html"
     ]
   },
   {

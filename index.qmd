@@ -11,7 +11,10 @@ page-layout: full
 
 **Base Running Science**
 
-Doctoral researcher (Sport & Exercise Science, AUT) · SPRINZ · Curvilinear sprinting & base running ability
+Doctoral researcher (Sport & Exercise Science) |
+Auckland University of Technology (AUT) |
+Sports Performance Research Institute New Zealand (SPRINZ) |
+Curvilinear sprinting | Base running ability
 
 </div>
 
@@ -19,17 +22,17 @@ Doctoral researcher (Sport & Exercise Science, AUT) · SPRINZ · Curvilinear spr
 
 <div class="feature-card">
 
-<img src="articles/GPS_reliability.png" alt="Featured article image" class="feature-image">
+<img src="articles/article_9/Asymmetry.png" alt="Featured article image" class="feature-image">
 
 <div class="feature-body">
 
-<div class="feature-meta">March 05, 2026 · Base Running</div>
+<div class="feature-meta">April 01, 2026 · Base Running</div>
 
-### Between-Session Reliability of GPS Technology for Quantifying Linear and Curvilinear Base-Running Performance
+### Functional asymmetries in inside-outside foot mechanics when curvilinear sprinting in baseball
 
-This peer-reviewed investigation, published in Applied Sciences (2026), evaluated the between-session reliability of 10 Hz GPS technology for quantifying linear (home-to-first) and curvilinear (home-to-second) base-running performance over 54.7 m in trained high school baseball athletes.
+The purpose of this study was to determine whether inside-outside foot asymmetries were observed when running multiple bases in baseball. Fifty-four trained male high school baseball position players performed two linear 54.7-meter sprints and two home-to-second base sprints.
 
-<a class="btn-primary" href="articles/GPS_reliability.html">Read the article →</a>
+<a class="btn-primary" href="article_9/Asymmetry.html">Read the article →</a>
 </div>
 </div>
 
@@ -50,18 +53,18 @@ Base running performance directly impacts baseball outcomes, yet it remains one 
 <div class="cards">
 
 <div class="card">
-<div class="card-title">Curvilinear Ability Test (CAT)</div>
-<div class="card-text">Field-based assessment to quantify curvilinear sprinting + change-of-direction performance specific to baseball/softball.</div>
+<div class="card-title">IMU Foot Pod Reliabilty</div>
+<div class="card-text">Foot pod technology is a reliable tool for assessing baseball base running mechanics.</div>
 </div>
 
 <div class="card">
-<div class="card-title">MLB StatCast / Hawk-Eye profiling</div>
-<div class="card-text">Normative KPI values across MLB and evidence that linear sprint metrics alone don’t explain multi-base running success.</div>
+<div class="card-title">GPS Reliability</div>
+<div class="card-text">Speed at 41.1 m should be considered for return-to-play and short-term performance tracking, while peak speed before first base and peak speed before second base and after first base may be used cautiously when larger performance changes are expected.</div>
 </div>
 
 <div class="card">
-<div class="card-title">Applied diagnostics</div>
-<div class="card-text">Wearable + tracking-informed evaluation to guide training decisions, performance, and injury-risk management.</div>
+<div class="card-title">Inside vs. Outside Foot Asymmetry</div>
+<div class="card-text">Inside–outside foot asymmetries are driven by the linear and curvilinear demands of specific segments, peaking in Segment 3 where stabilization demands are greatest.</div>
 </div>
 
 </div>

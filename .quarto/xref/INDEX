@@ -40,5 +40,23 @@
   },
   "articles/IMU_reliability.qmd": {
     "IMU_reliability.html": "d08eabc2"
+  },
+  "articles/article_2/need_for_speed.qmd": {
+    "need_for_speed.html": "aeabcc55"
+  },
+  "articles/article_3/base_running_science.qmd": {
+    "base_running_science.html": "f367816d"
+  },
+  "articles/article_5/GPS_reliability.qmd": {
+    "GPS_reliability.html": "27f250f3"
+  },
+  "articles/article_7/IMU_reliability.qmd": {
+    "IMU_reliability.html": "611edc96"
+  },
+  "articles/article_9/Asymmetry.qmd": {
+    "Asymmetry.html": "bb7183f1"
+  },
+  "articles/Asymmetry.qmd": {
+    "Asymmetry.html": "c238a083"
   }
 }

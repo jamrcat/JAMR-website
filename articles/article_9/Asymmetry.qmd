@@ -1,0 +1,66 @@
+---
+title: "Functional asymmetries in inside-outside foot mechanics when curvilinear sprinting in baseball"
+
+date: 2026-01-26
+
+description: > 
+  The purpose of this study was to determine whether inside-outside foot asymmetries were observed when running multiple bases in baseball. Fifty-four trained male high school baseball position players performed two linear 54.7-meter sprints and two home-to-second base sprints. Ground contact time (GCT), stride length (SL), and average push-off and impact were quantified using inertial measurement unit foot pod technology. The sprints were divided into four segments (0–13.7 m; 13.7–27.4 m; 27.4–41.1 m; 41.1–54.7 m) for both curvilinear segments (C):C1–C4, and linear segments (L):L1–L4. The primary findings of this study were that for linear sprinting, GCT was not significantly different between feet across all segments, but SL was significantly shorter (L2–L4) in the outside foot (−0.76% to −1.34%; ES = −0.20 to −0.37) and push-off were significantly greater (L1–L4) in the outside foot (2.95% to 4.39%; ES = 0.27 to 0.40), with significantly greater outside-foot impact only in L1 (5.63%; ES = 0.29). In curvilinear sprinting, the inside foot was found to have significantly longer GCT in Segments 2–4 (−3.13% to −7.79%; ES = −0.38 to −1.29), higher push-off (3.83% to 4.39%; ES = 0.31 to 0.41), and segment-specific SL changes. Inside–outside foot asymmetries are driven by the linear-curvilinear demands of specific segments, peaking in Segment 3 where stabilization demands are greatest. These findings highlight the need for segment-specific training that develops inside-foot stability and outside-foot propulsion to optimize base-running performance in base runners.
+
+categories: [base running biomechanics; foot-specific mechanics; monitoring]
+
+image: Asymmetry.png
+output-file: Asymmetry.html
+
+---
+
+## Context
+
+A new peer-reviewed publication further strengthens the scientific basis of Base Running Science by demonstrating that inside–outside foot mechanics differ meaningfully during curvilinear sprinting in baseball. A new peer-reviewed publication further strengthens the scientific basis of Base Running Science by demonstrating that inside–outside foot mechanics differ meaningfully during curvilinear sprinting in baseball.
+
+Published in Asymmetry (2026), this study evaluated trained high school baseball players and quantified ground contact time (GCT), stride length (SL), push-off, and impact during both linear and curvilinear sprinting.
+
+The findings were clear:
+
+1. In linear sprinting, the outside foot demonstrated:
+
+  a. shorter stride length from L2–L4 (−0.76% to −1.34%)
+  b. greater push-off from L1–L4 (2.95% to 4.39%)
+  c. greater impact in L1 (5.63%)
+
+2. In curvilinear sprinting, the inside foot demonstrated:
+
+  a. longer GCT in Segments 2–4 (−3.13% to −7.79%)
+  b. higher push-off (3.83% to 4.39%)
+
+Most notably, the greatest inside–outside asymmetry appeared in Segment 3, indicating that the middle phase of the curve imposes the highest stabilization demands.
+
+These results reinforce an important point: 
+
+curvilinear sprinting is not simply linear sprinting performed on a bend. It is a distinct locomotor task with foot-specific and segment-dependent demands.
+
+That distinction matters for:
+
+1. performance assessment
+2. training design
+3. return-to-play monitoring
+4. long-term athlete development
+
+Base running performance cannot be fully understood through straight-line metrics alone.
+
+It must be evaluated in the context of the movement demands the game actually requires.
+
+Base running is measurable.
+Base running is monitorable.
+Base running is scientific.
+
+#BaseRunningScience #SportScience #BaseballPerformance #Biomechanics #CurvilinearSprinting
+
+---
+
+**Where it's published:**
+
+[Read the full article](https://https://www.elspub.com/doi/10.55092/asymmetry20260001){target="\_blank"}
+
+---
+
+![](../article_9/Asymmetry.png)

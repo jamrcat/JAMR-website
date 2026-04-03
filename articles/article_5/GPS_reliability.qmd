@@ -54,8 +54,10 @@ For the Carlos Beltran Baseball Academy, this work does more than contribute dat
 
 ---
 
-![](../articles/GPS_reliability.png)
-
 **Where it's published:**
 
 [Read the full article](https://www.mdpi.com/2076-3417/16/5/2224){target="\_blank"}
+---
+
+![](../article_5/GPS_reliability.png)
+

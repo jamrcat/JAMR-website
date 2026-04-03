@@ -2,50 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jamrbaserunningscience.netlify.app/about.html</loc>
-    <lastmod>2026-03-09T14:36:30.092Z</lastmod>
+    <lastmod>2026-04-03T16:18:36.653Z</lastmod>
   </url>
   <url>
-    <loc>https://jamrbaserunningscience.netlify.app/articles/base_running_science.html</loc>
-    <lastmod>2026-03-09T14:36:31.848Z</lastmod>
+    <loc>https://jamrbaserunningscience.netlify.app/articles/article_2/need_for_speed.html</loc>
+    <lastmod>2026-04-03T16:18:38.560Z</lastmod>
   </url>
   <url>
-    <loc>https://jamrbaserunningscience.netlify.app/articles/GPS_reliability.html</loc>
-    <lastmod>2026-03-09T14:36:33.749Z</lastmod>
+    <loc>https://jamrbaserunningscience.netlify.app/articles/article_3/base_running_science.html</loc>
+    <lastmod>2026-04-03T16:18:40.326Z</lastmod>
   </url>
   <url>
-    <loc>https://jamrbaserunningscience.netlify.app/articles/IMU_reliability.html</loc>
-    <lastmod>2026-03-09T14:36:35.510Z</lastmod>
+    <loc>https://jamrbaserunningscience.netlify.app/articles/article_5/GPS_reliability.html</loc>
+    <lastmod>2026-04-03T16:18:42.309Z</lastmod>
   </url>
   <url>
-    <loc>https://jamrbaserunningscience.netlify.app/articles/need_for_speed.html</loc>
-    <lastmod>2026-03-09T14:36:37.271Z</lastmod>
+    <loc>https://jamrbaserunningscience.netlify.app/articles/article_7/IMU_reliability.html</loc>
+    <lastmod>2026-04-03T16:18:44.253Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jamrbaserunningscience.netlify.app/articles/article_9/Asymmetry.html</loc>
+    <lastmod>2026-04-03T16:18:46.053Z</lastmod>
   </url>
   <url>
     <loc>https://jamrbaserunningscience.netlify.app/articles.html</loc>
-    <lastmod>2026-03-09T14:36:58.787Z</lastmod>
+    <lastmod>2026-04-03T16:18:48.418Z</lastmod>
   </url>
   <url>
     <loc>https://jamrbaserunningscience.netlify.app/contact.html</loc>
-    <lastmod>2026-03-09T14:36:40.836Z</lastmod>
+    <lastmod>2026-04-03T16:18:49.992Z</lastmod>
   </url>
   <url>
     <loc>https://jamrbaserunningscience.netlify.app/index.html</loc>
-    <lastmod>2026-03-09T14:36:42.499Z</lastmod>
+    <lastmod>2026-04-03T16:18:51.710Z</lastmod>
   </url>
   <url>
     <loc>https://jamrbaserunningscience.netlify.app/notes/ArmCare.html</loc>
-    <lastmod>2026-03-09T14:36:43.984Z</lastmod>
+    <lastmod>2026-04-03T16:18:53.299Z</lastmod>
   </url>
   <url>
     <loc>https://jamrbaserunningscience.netlify.app/notes.html</loc>
-    <lastmod>2026-03-09T14:36:45.838Z</lastmod>
+    <lastmod>2026-04-03T16:18:55.074Z</lastmod>
   </url>
   <url>
     <loc>https://jamrbaserunningscience.netlify.app/projects.html</loc>
-    <lastmod>2026-03-09T14:36:47.231Z</lastmod>
+    <lastmod>2026-04-03T16:18:56.565Z</lastmod>
   </url>
   <url>
     <loc>https://jamrbaserunningscience.netlify.app/updates.html</loc>
-    <lastmod>2026-03-09T14:36:48.620Z</lastmod>
+    <lastmod>2026-04-03T16:18:58.020Z</lastmod>
   </url>
 </urlset>

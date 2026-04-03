@@ -13,7 +13,7 @@ output-file: IMU_reliability.html
 
 ---
 
-## Context
+**Context**
 
 This study examined the reliability of in-shoe inertial measurement unit (IMU) foot pod technology for quantifying kinematic variables during baseball base running.
 
@@ -23,13 +23,10 @@ The research evaluated whether foot pod sensors embedded in athletes’ shoes co
 
 The study used Plantiga foot pod sensors, which contain:
 
-6-axis inertial measurement units
-
-Triaxial accelerometers
-
-Triaxial gyroscopes
-
-Sampling frequency of 416 Hz
+1. 6-axis inertial measurement units
+2. Triaxial accelerometers
+3. Triaxial gyroscopes
+4. Sampling frequency of 416 Hz
 
 These sensors allow practitioners to measure detailed biomechanical variables at the step level, providing deeper insight into the mechanical demands of base running. 
 
@@ -37,27 +34,22 @@ These sensors allow practitioners to measure detailed biomechanical variables at
 
 The study quantified several key kinematic metrics relevant to baseball base running:
 
-Maximum speed
+1. Maximum speed
+2. Average speed
+3. Ground contact time (left and right foot)
+4. Stride length (left and right foot)
+5. Push-off acceleration (left and right foot)
+6. Impact acceleration (left and right foot)
 
-Average speed
+These metrics were analyzed across three baseball-specific sprinting segments and 
+one linear sprinting segment:
 
-Ground contact time (left and right foot)
+1. Home to first base
+2. First to second base
+3. Home to second base
+4. 54.7-m linear sprint
 
-Stride length
-
-Push-off acceleration
-
-Impact acceleration
-
-These metrics were analyzed across three baseball-specific running segments:
-
-Home to first base
-
-First to second base
-
-Home to second base
-
-This segmental analysis provides a deeper understanding of the mechanical differences between straight-line sprinting and curve running.
+This segmental analysis provides a deeper understanding of the mechanical differences between linear and curvilinear sprinitng in baseball players.
 
 **Key Findings**
 
@@ -65,13 +57,10 @@ The results demonstrated strong reliability across most kinematic variables, ind
 
 Major findings included:
 
-No statistically significant performance changes between testing sessions
-
-94% of coefficient of variation values were below 10%
-
-Most reliability coefficients showed good to excellent intraclass correlation values
-
-The majority of measurements demonstrated high stability across testing days. 
+1. **No statistically significant performance changes** between testing sessions
+2. **94% of coefficient of variation values were below 10%**
+3. Most reliability coefficients showed **good to excellent** intraclass correlation values
+4. The majority of measurements demonstrated **high stability** across testing days. 
 
 These results indicate that foot pod technology is a reliable tool for assessing baseball base running mechanics.
 
@@ -81,24 +70,22 @@ Foot pod technology provides coaches and sport scientists with a deeper biomecha
 
 Applications include:
 
-**Base Running Diagnostics**
-
-Identifying mechanical inefficiencies during curve running
-
-**Performance Optimization**
-
-Understanding stride mechanics and force application during base running
-
-**Training Prescription**
-
-Designing drills to improve stride efficiency and acceleration patterns
-
-**Injury Risk Management**
-
-Monitoring asymmetries between the inside and outside legs during curvilinear running
+1. **Base Running Diagnostics**
+2. Identifying mechanical inefficiencies during curve running
+3. **Performance Optimization**
+4. Understanding stride mechanics and force application during base running
+5. **Training Prescription**
+6. Designing drills to improve stride efficiency and acceleration patterns
+7. **Injury Risk Management**
+8. Monitoring asymmetries between the inside and outside legs during curvilinear running
 
 These insights allow practitioners to move beyond simple timing data and toward mechanically informed base-running coaching.
 
 ---
 
-![](../articles/IMU_reliability.png)
+**Where it's published:**
+
+[Read the full article](https://journals.lww.com/nsca-jscr/abstract/9900/improving_base_running_diagnostics_with_foot_pod.922.aspx){target="\_blank"}
+---
+
+![](../article_7/IMU_reliability.png)
