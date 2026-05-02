@@ -22,17 +22,17 @@ Curvilinear sprinting | Base running ability
 
 <div class="feature-card">
 
-<img src="articles/article_9/Asymmetry.png" alt="Featured article image" class="feature-image">
+<img src="articles/article_6/GPS_approach.png" alt="Featured article image" class="feature-image">
 
 <div class="feature-body">
 
 <div class="feature-meta">April 01, 2026 · Base Running</div>
 
-### Functional asymmetries in inside-outside foot mechanics when curvilinear sprinting in baseball
+### New Perspectives on Analyzing and Interpreting Base Running Efficiency: A GPS Approach
 
-The purpose of this study was to determine whether inside-outside foot asymmetries were observed when running multiple bases in baseball. Fifty-four trained male high school baseball position players performed two linear 54.7-meter sprints and two home-to-second base sprints.
+This perspective presents a methodological framework for using GPS technology to enhance the analysis and interpretation of base running performance through segment-specific velocity and time diagnostics. 
 
-<a class="btn-primary" href="article_9/Asymmetry.html">Read the article →</a>
+<a class="btn-primary" href="article_6/GPS_approach.html">Read the article →</a>
 </div>
 </div>
 

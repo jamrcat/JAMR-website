@@ -1,0 +1,31 @@
+---
+title: "New Perspectives on Analyzing and Interpreting Base Running Efficiency: A GPS Approach"
+
+date: 2026-03-05
+
+description: > 
+  Base running performance in baseball depends on the ability to efficiently transition between linear and curvilinear sprinting; however, current assessment approaches provide limited insight into how speed is developed, maintained, or lost across these phases. This perspective presents a methodological framework for using GPS technology to enhance the analysis and interpretation of base running performance through segment-specific velocity and time diagnostics. GPS data were collected during 54.7 m linear sprints and home-to-second-base curvilinear sprints in three high-school baseball players with differing performance profiles. Sprint paths were divided into standardized linear (L1–L4) and curvilinear (C1–C4) segments, allowing examination of speed changes between successive phases to identify acceleration, maintenance, and deceleration patterns. Comparative case analyses illustrate how athletes differ in their ability to negotiate the curve around first base, reaccelerate toward second base, and maintain speed under increasing curvilinear demands. In addition, a base running efficiency ratio (BREr) is introduced to quantify how effectively linear sprint capacity is preserved during curvilinear base running, both globally and across early and late phases of the sprint. The three players’ data illustrated that GPS-derived velocity–time profiles may provide useful insights into individual running strategies, path selection, and segment-specific performance limitations that are not captured by traditional timing methods. Rather than establishing normative benchmarks, this paper emphasizes the applied value of GPS technology as a diagnostic tool to potentially inform individualized assessment and monitoring in applied settings related to linear and curvilinear sprint performance in baseball.
+
+categories: [ monitoring; technology; baseball; curvilinear running; sprinting]
+
+image: GPS_approach.png
+output-file: GPS_approach.html
+
+---
+
+**Context**
+
+Base running efficiency is already established in the literature, but there is still a need to better understand how that efficiency is expressed across the different phases of a sprint from home to second base.
+
+In this paper, we build on existing base running efficiency concepts by improving how this metric is visualized and interpreted. Using GPS-derived segment-specific velocity and time data, we show how practitioners can identify where athletes accelerate, lose speed, reaccelerate, and manage the curve around first base.
+
+Rather than focusing only on total time outcomes, this approach provides a more applied diagnostic framework for understanding individual base running strategies and performance limitations in both linear and curvilinear sprinting.
+
+---
+
+**Where it's published:**
+
+[Read the full article](https://www.mdpi.com/1424-8220/26/8/2378){target="\_blank"}
+---
+
+![](../article_6/GPS_approach.png)

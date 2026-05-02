@@ -12,73 +12,86 @@
 <generator>quarto-1.3.353</generator>
 <lastBuildDate>Thu, 05 Mar 2026 04:00:00 GMT</lastBuildDate>
 <item>
-  <title>Improving Base Running Diagnostics with Foot Pod Technology: Intersession Reliability of Linear and Curvilinear Running Performance</title>
-  <link>https://jamrbaserunningscience.netlify.app/articles/article_7/IMU_reliability.html</link>
+  <title>New Perspectives on Analyzing and Interpreting Base Running Efficiency: A GPS Approach</title>
+  <link>https://jamrbaserunningscience.netlify.app/articles/article_6/GPS_approach.html</link>
   <description><![CDATA[ 
 
 
 
 <p><strong>Context</strong></p>
+<p>Base running efficiency is already established in the literature, but there is still a need to better understand how that efficiency is expressed across the different phases of a sprint from home to second base.</p>
+<p>In this paper, we build on existing base running efficiency concepts by improving how this metric is visualized and interpreted. Using GPS-derived segment-specific velocity and time data, we show how practitioners can identify where athletes accelerate, lose speed, reaccelerate, and manage the curve around first base.</p>
+<p>Rather than focusing only on total time outcomes, this approach provides a more applied diagnostic framework for understanding individual base running strategies and performance limitations in both linear and curvilinear sprinting.</p>
+<hr>
+<p><strong>Where it’s published:</strong></p>
+<p><a href="https://www.mdpi.com/1424-8220/26/8/2378" target="_blank">Read the full article</a></p>
+<hr>
+<p><img src="https://jamrbaserunningscience.netlify.app/articles/article_6/GPS_approach.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>monitoring; technology; baseball; curvilinear running; sprinting</category>
+  <guid>https://jamrbaserunningscience.netlify.app/articles/article_6/GPS_approach.html</guid>
+  <pubDate>Thu, 05 Mar 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://jamrbaserunningscience.netlify.app/articles/article_6/GPS_approach.png" medium="image" type="image/png" height="145" width="144"/>
+</item>
+<item>
+  <title>Between-Session Reliability of GPS Technology for Quantifying Linear and Curvilinear Base-Running Performance</title>
+  <link>https://jamrbaserunningscience.netlify.app/articles/article_7/IMU_reliability.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="context" class="level2">
+<h2 class="anchored" data-anchor-id="context">Context</h2>
 <p>This study examined the reliability of in-shoe inertial measurement unit (IMU) foot pod technology for quantifying kinematic variables during baseball base running.</p>
 <p>The research evaluated whether foot pod sensors embedded in athletes’ shoes could reliably measure step-by-step mechanics during both linear sprinting (54.7 m) and curvilinear base running (home-to-second base).</p>
 <p><strong>Technology Used</strong></p>
 <p>The study used Plantiga foot pod sensors, which contain:</p>
-<ol type="1">
-<li>6-axis inertial measurement units</li>
-<li>Triaxial accelerometers</li>
-<li>Triaxial gyroscopes</li>
-<li>Sampling frequency of 416 Hz</li>
-</ol>
+<p>6-axis inertial measurement units</p>
+<p>Triaxial accelerometers</p>
+<p>Triaxial gyroscopes</p>
+<p>Sampling frequency of 416 Hz</p>
 <p>These sensors allow practitioners to measure detailed biomechanical variables at the step level, providing deeper insight into the mechanical demands of base running.</p>
 <p><strong>Variables Analyzed</strong></p>
 <p>The study quantified several key kinematic metrics relevant to baseball base running:</p>
-<ol type="1">
-<li>Maximum speed</li>
-<li>Average speed</li>
-<li>Ground contact time (left and right foot)</li>
-<li>Stride length (left and right foot)</li>
-<li>Push-off acceleration (left and right foot)</li>
-<li>Impact acceleration (left and right foot)</li>
-</ol>
-<p>These metrics were analyzed across three baseball-specific sprinting segments and one linear sprinting segment:</p>
-<ol type="1">
-<li>Home to first base</li>
-<li>First to second base</li>
-<li>Home to second base</li>
-<li>54.7-m linear sprint</li>
-</ol>
-<p>This segmental analysis provides a deeper understanding of the mechanical differences between linear and curvilinear sprinitng in baseball players.</p>
+<p>Maximum speed</p>
+<p>Average speed</p>
+<p>Ground contact time (left and right foot)</p>
+<p>Stride length</p>
+<p>Push-off acceleration</p>
+<p>Impact acceleration</p>
+<p>These metrics were analyzed across three baseball-specific running segments:</p>
+<p>Home to first base</p>
+<p>First to second base</p>
+<p>Home to second base</p>
+<p>This segmental analysis provides a deeper understanding of the mechanical differences between straight-line sprinting and curve running.</p>
 <p><strong>Key Findings</strong></p>
 <p>The results demonstrated strong reliability across most kinematic variables, indicating that IMU foot pod technology can be used to confidently monitor base-running mechanics.</p>
 <p>Major findings included:</p>
-<ol type="1">
-<li><strong>No statistically significant performance changes</strong> between testing sessions</li>
-<li><strong>94% of coefficient of variation values were below 10%</strong></li>
-<li>Most reliability coefficients showed <strong>good to excellent</strong> intraclass correlation values</li>
-<li>The majority of measurements demonstrated <strong>high stability</strong> across testing days.</li>
-</ol>
+<p>No statistically significant performance changes between testing sessions</p>
+<p>94% of coefficient of variation values were below 10%</p>
+<p>Most reliability coefficients showed good to excellent intraclass correlation values</p>
+<p>The majority of measurements demonstrated high stability across testing days.</p>
 <p>These results indicate that foot pod technology is a reliable tool for assessing baseball base running mechanics.</p>
 <p><strong>Practical Applications</strong></p>
 <p>Foot pod technology provides coaches and sport scientists with a deeper biomechanical understanding of base running, which can be used to improve athlete development.</p>
 <p>Applications include:</p>
-<ol type="1">
-<li><strong>Base Running Diagnostics</strong></li>
-<li>Identifying mechanical inefficiencies during curve running</li>
-<li><strong>Performance Optimization</strong></li>
-<li>Understanding stride mechanics and force application during base running</li>
-<li><strong>Training Prescription</strong></li>
-<li>Designing drills to improve stride efficiency and acceleration patterns</li>
-<li><strong>Injury Risk Management</strong></li>
-<li>Monitoring asymmetries between the inside and outside legs during curvilinear running</li>
-</ol>
+<p><strong>Base Running Diagnostics</strong></p>
+<p>Identifying mechanical inefficiencies during curve running</p>
+<p><strong>Performance Optimization</strong></p>
+<p>Understanding stride mechanics and force application during base running</p>
+<p><strong>Training Prescription</strong></p>
+<p>Designing drills to improve stride efficiency and acceleration patterns</p>
+<p><strong>Injury Risk Management</strong></p>
+<p>Monitoring asymmetries between the inside and outside legs during curvilinear running</p>
 <p>These insights allow practitioners to move beyond simple timing data and toward mechanically informed base-running coaching.</p>
 <hr>
-<p><strong>Where it’s published:</strong></p>
-<p><a href="https://journals.lww.com/nsca-jscr/abstract/9900/improving_base_running_diagnostics_with_foot_pod.922.aspx" target="_blank">Read the full article</a></p>
-<hr>
-<p><img src="https://jamrbaserunningscience.netlify.app/articles/article_7/IMU_reliability.png" class="img-fluid"></p>
+<p><img src="https://jamrbaserunningscience.netlify.app/articles/articles/IMU_reliability.png" class="img-fluid"></p>
 
 
+</section>
 
  ]]></description>
   <category>kinematic measures</category>

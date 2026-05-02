@@ -2,6 +2,7 @@
   {
     "listing": "/articles.html",
     "items": [
+      "/articles/article_6/GPS_approach.html",
       "/articles/article_7/IMU_reliability.html",
       "/articles/article_5/GPS_reliability.html",
       "/articles/article_9/Asymmetry.html",
