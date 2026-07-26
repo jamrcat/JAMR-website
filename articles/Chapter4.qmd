@@ -1,0 +1,89 @@
+---
+title: "Improving Base Running in Baseball A Linear-Curvilinear Perspective"
+
+date: 2026-07-20
+
+description: > 
+  Base running substantially contributes to offensive performance and team success. Therefore, improving players' linear and curvilinear base running abilities is critical to win more games and competitions. Performance science investigating the biomechanics of base running is scarce with minimal understanding how to efficiently run multiple bases. As a result, this article explored the following; 1) review the literature identifying the technical demands associated with curvilinear running and how these might differ from linear running; 2) identify in-field technology that may provide greater diagnostic insight into determinants of efficacy for various training methods to optimize base running ability; and, 3) detail training methods currently used for curvilinear sprint training and suggest more effective options. A clear gap has emerged for baseball as existing evidence must be derived from studies on track and soccer athletes. Based on the current state of the literature, it is necessary to evaluate understanding of foot-ankle complex mechanics, muscular output by the lower limbs, and distinct functions of the inside and outside leg providing valuable frameworks for analyzing curvilinear running mechanics. 
+
+categories: [Change of Direction; Resistance Training; Base Running Assessment; Running Biomechanics; Wearable Resistance Training]
+
+image: Chapter4.png
+output-file: Chapter4.html
+
+---
+
+## Context
+
+I’m pleased to share one of the most informative articles developed from my thesis:
+
+“Improving Base Running in Baseball: A Linear–Curvilinear Perspective”
+
+Base running makes a meaningful contribution to offensive performance. Previous research estimates that player speed can contribute approximately 25 runs during an MLB season, while concentrating highly skilled base runners within a lineup may increase seasonal production by as many as 70 runs.
+
+Despite its potential value, base running is still frequently evaluated and trained using straight-line sprint measures.
+
+Our review suggests that this may be incomplete.
+
+Linear and curvilinear sprinting appear to be related but distinct motor qualities. MLB players who steal the most bases demonstrate high linear speeds and accelerations. However, higher linear speed and acceleration have not been similarly observed among players running two consecutive bases.
+
+This raises an important practical question:
+
+Does improving straight-line speed automatically produce a better base runner?
+
+The current evidence suggests that it may not.
+
+Curvilinear sprinting requires an inward body lean that changes how force is distributed between the legs. Rather than performing identical functions, the inside and outside limbs assume different mechanical roles.
+
+The inside leg acts primarily as a shock absorber, decelerator, and directional controller. It manages mediolateral forces and helps redirect the athlete’s center of mass along the curved path.
+
+The outside leg functions more as a propulsion engine. It produces greater forward force and uses a stiffer foot position to drive the athlete through the curve.
+
+These mechanical differences extend from the hip to the foot–ankle complex. The outside-leg gluteus medius and biceps femoris demonstrate greater activation, supporting stability and forward propulsion. The inside-leg adductors and semitendinosus contribute to braking and directional control. The gastrocnemius medialis is active in both legs: it assists force absorption and momentum redirection on the inside leg, while supporting foot–ankle stability and efficient force transfer on the outside leg.
+
+The foot also behaves differently on each side. The inside foot adopts a more mobile and absorptive position, while the outside foot becomes relatively stiffer to support an effective push-off.
+
+What does the training evidence show?
+
+The review identified six curvilinear sprint-training studies:
+
+• Curvilinear sprint training produced improvements of approximately 3.36%–4.16% in one intervention, while the linear training group improved by only 0.02%–0.13%.
+
+• Light and heavy sled training produced curved-sprint improvements of approximately 2.54%–5.90%. No significant difference was found between loading conditions.
+
+• In female softball players, 20 weeks of powerlifting improved curvilinear home-to-second performance by 2.88%, compared with a 0.32% improvement in linear home-to-first performance.
+
+These results are promising, but the evidence base remains limited. The six studies included only 127 athletes, approximately 92.1% of whom were male. Five studies involved soccer players, and only one involved softball players. Differences in surfaces, running directions, distances, curve radii, starting positions, and testing procedures also make direct comparisons difficult.
+
+Most importantly, baseball-specific curvilinear training research is still largely absent.
+
+Based on the current evidence, strength and conditioning programs should consider addressing the following areas:
+
+Inside-leg capacity
+Develop eccentric strength, braking ability, and mediolateral stability through exercises such as Nordic hamstring exercises, Romanian deadlifts, Copenhagen adduction exercises, and inward-lean unilateral squats.
+
+Outside-leg capacity
+Develop forward propulsion and unilateral power through outside-leg inward-lean squats, triple-extension exercises, and appropriately progressed jumping movements.
+
+Foot–ankle function
+Train both the absorptive function required by the inside foot and the stiffness and propulsive strength required by the outside foot.
+Movement-specific progression
+Progress athletes from controlled full, half, and quarter-circle runs to sharper 90-degree paths and, ultimately, self-selected base-running arcs performed under game-relevant conditions.
+
+Wearable resistance
+Light external loads—typically 1%–5% of body mass or approximately 200–600 grams—may provide a movement-specific training stimulus without preventing athletes from following a curved path. However, wearable resistance should be progressive, supervised, and treated as an adjunct rather than a replacement for foundational sprint, strength, and coordination training.
+Portable diagnostic technology
+Timing gates provide total sprint time but reveal little about what happens during individual steps. High-sampling foot-pod inertial sensors may help practitioners examine center-of-mass motion, step-by-step performance, speed loss, and emerging asymmetries throughout the curve.
+
+The practical message from this article is straightforward:
+
+Base running is not simply linear sprinting around a baseball diamond. It is a complex sequence of acceleration, inward lean, force absorption, redirection, propulsion, and re-acceleration.
+
+Therefore, practitioners should assess and train linear and curvilinear sprinting as related—but distinct—performance qualities.
+
+Advancing this area will require baseball-specific intervention studies comparing linear sprinting, curvilinear sprinting, resisted sprinting, strength and power development, and wearable-resistance training across different ages, positions, competitive levels, and sexes.
+
+Better measurement can lead to better exercise prescription—and, ultimately, safer and more effective base-running development.
+---
+
+![](../articles/Chapter4.png)

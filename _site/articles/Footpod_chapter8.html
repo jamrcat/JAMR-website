@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2026-04-26">
+<meta name="description" content="This article presents a practical framework for implementing, collecting, and interpreting inertial measurement unit (IMU) foot pod data to improve diagnostic understanding of baseball base running mechanics. Linear sprinting is used as a baseline, whereas the home-to-second-base sprint trial is used to examine how that capacity is expressed when athletes negotiate curvilinear running demands. The purpose is not to establish generalized performance outcomes, but to illustrate how IMU-derived spatiotemporal variables may be interpreted across successive base running segments in applied settings. Three competitive baseball players were selected from a larger dataset of n = 54 base runners tested using the same protocol with distinct home-to-second-base performance profiles as follows: the fastest case (Player X), an intermediate case (Player Y), and the slowest case (Player Z) were selected based on total home-to-second-base time. The cases were selected purposively to demonstrate the application of the IMU interpretation framework, including ground contact time (GCT), stride length (SL), push-off acceleration, and impact acceleration. Particular emphasis is placed on how curvilinear demands alter inside- and outside-foot function, and how segment-to-segment comparisons may help practitioners identify phases in which base runners maintain, reorganize, or lose mechanical efficiency. Compared with broader velocity-based approaches, the IMU framework provides complementary step-level information that may help practitioners generate hypotheses about how base runners organize movement across linear and curvilinear segments. These examples are intended to demonstrate a workflow for applied interpretation rather than to establish causal mechanisms. As a result, IMU foot pod analysis may offer practitioners a structured and portable method for interpreting curvilinear sprint mechanics, yet these case examples should be understood as descriptive rather than prescriptive.">
 
-<title>José Antonio Martínez-Rodríguez - Notes</title>
+<title>José Antonio Martínez-Rodríguez - New Perspectives on Analyzing and Interpreting Base Running Efficiency: An IMU Foot Pod Methodological Case Approach</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -60,41 +60,10 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-description','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="José Antonio Martínez-Rodríguez" href="notes.xml"></head>
+<link rel="stylesheet" href="../styles.css">
+</head>
 
 <body class="nav-fixed">
 
@@ -103,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">José Antonio Martínez-Rodríguez</span>
     </a>
   </div>
@@ -114,27 +83,27 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
+    <a class="nav-link" href="../index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html" rel="" target="">
+    <a class="nav-link" href="../projects.html" rel="" target="">
  <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./articles.html" rel="" target="">
+    <a class="nav-link" href="../articles.html" rel="" target="">
  <span class="menu-text">Articles</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./notes.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="../notes.html" rel="" target="">
  <span class="menu-text">Notes</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./updates.html" rel="" target="">
+    <a class="nav-link" href="../updates.html" rel="" target="">
  <span class="menu-text">Updates</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html" rel="" target="">
+    <a class="nav-link" href="../contact.html" rel="" target="">
  <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -154,14 +123,28 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Notes</h1>
-</div>
+<h1 class="title">New Perspectives on Analyzing and Interpreting Base Running Efficiency: An IMU Foot Pod Methodological Case Approach</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">monitoring; mechanics; sprinting; curvilinear running</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    <p>This article presents a practical framework for implementing, collecting, and interpreting inertial measurement unit (IMU) foot pod data to improve diagnostic understanding of baseball base running mechanics. Linear sprinting is used as a baseline, whereas the home-to-second-base sprint trial is used to examine how that capacity is expressed when athletes negotiate curvilinear running demands. The purpose is not to establish generalized performance outcomes, but to illustrate how IMU-derived spatiotemporal variables may be interpreted across successive base running segments in applied settings. Three competitive baseball players were selected from a larger dataset of n = 54 base runners tested using the same protocol with distinct home-to-second-base performance profiles as follows: the fastest case (Player X), an intermediate case (Player Y), and the slowest case (Player Z) were selected based on total home-to-second-base time. The cases were selected purposively to demonstrate the application of the IMU interpretation framework, including ground contact time (GCT), stride length (SL), push-off acceleration, and impact acceleration. Particular emphasis is placed on how curvilinear demands alter inside- and outside-foot function, and how segment-to-segment comparisons may help practitioners identify phases in which base runners maintain, reorganize, or lose mechanical efficiency. Compared with broader velocity-based approaches, the IMU framework provides complementary step-level information that may help practitioners generate hypotheses about how base runners organize movement across linear and curvilinear segments. These examples are intended to demonstrate a workflow for applied interpretation rather than to establish causal mechanisms. As a result, IMU foot pod analysis may offer practitioners a structured and portable method for interpreting curvilinear sprint mechanics, yet these case examples should be understood as descriptive rather than prescriptive.</p>
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">April 26, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -169,52 +152,25 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<section id="context" class="level2">
+<h2 class="anchored" data-anchor-id="context">Context</h2>
+<p>Base running science is not just a matter of raw sprint speed.</p>
+<p>Our recent article in Applied Sciences, “New Perspectives on Analyzing and Interpreting Base Running Efficiency: An IMU Foot Pod Methodological Case Approach,” presents a practical framework for using IMU foot-pod data to evaluate how base runners organise their mechanics across linear and curvilinear sprinting demands.</p>
+<p>The article uses linear sprinting as a baseline and the home-to-second-base sprint as a baseball-specific task to examine how base runners express speed while entering, negotiating, and exiting the curve around first base.</p>
+<p>The framework focuses on step-level variables such as:</p>
+<p>• Ground contact time • Stride length • Push-off acceleration • Impact acceleration • Inside- and outside-foot asymmetry • Linear-to-curvilinear percent differences</p>
+<p>A key message from the paper is that asymmetry should not automatically be interpreted as dysfunction. In curvilinear running, inside- and outside-foot roles may change by segment, task demand, and individual athlete strategy.</p>
+<p>For practitioners, this approach offers a more detailed way to investigate why speed is gained, maintained, or lost during base running. Rather than relying only on timing splits or velocity outputs, IMU foot-pod analysis can help identify whether performance changes are associated with longer ground contact times, insufficient propulsion, excessive braking, or altered foot-specific mechanics.</p>
+<p>The article is intended as a methodological and interpretive framework, not a set of universal performance norms. Its value lies in showing how wearable sensor data can support more individualized decision-making in baseball performance environments.</p>
+<hr>
+<p><img src="../articles/Footpod_chapter8.png" class="img-fluid"></p>
+<p><strong>Where it’s published:</strong></p>
+<p><a href="https://www.mdpi.com/1424-8220/26/8/2378" target="_blank">Read the full article</a></p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Base Running,Sprinting,Training" data-listing-date-sort="1735704000000" data-listing-file-modified-sort="1771443924000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<div class="body">
-<a href="./notes/ArmCare.html">
-<h3 class="no-anchor listing-title">
-ArmCare.com: Transform Your Baseball Performance with New Sprinting Science
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Base Running'); return false;">
-Base Running
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Sprinting'); return false;">
-Sprinting
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Training'); return false;">
-Training
-</div>
-</div>
-<a href="./notes/ArmCare.html">
-<div class="listing-description">
-<p>Curvilinear sprinting requires unique biomechanical adaptations that differ significantly from linear sprinting. By understanding the forces and muscle activation patterns involved in running curves, athletes can train more effectively and reduce injury risks. Mastering these mechanics is essential for baseball players to improve base-running efficiency and overall performance. With targeted strength and technique training, players can build the stability, power, and coordination necessary to excel in curved trajectories, enhancing both their athletic potential and durability on the field.</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./notes/ArmCare.html">
-<div class="listing-date">
-Jan 1, 2025
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

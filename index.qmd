@@ -22,17 +22,17 @@ Curvilinear sprinting | Base running ability
 
 <div class="feature-card">
 
-<img src="articles/article_6/GPS_approach.png" alt="Featured article image" class="feature-image">
+<img src="articles/Chapter4.png" alt="Featured article image" class="feature-image">
 
 <div class="feature-body">
 
-<div class="feature-meta">April 01, 2026 · Base Running</div>
+<div class="feature-meta">June 20, 2026 · Base Running</div>
 
-### New Perspectives on Analyzing and Interpreting Base Running Efficiency: A GPS Approach
+### Improving Base Running in Baseball: A Linear-Curvilinear Perspective
 
-This perspective presents a methodological framework for using GPS technology to enhance the analysis and interpretation of base running performance through segment-specific velocity and time diagnostics. 
+This article explored the following; 1) review the literature identifying the technical demands associated with curvilinear running and how these might differ from linear running; 2) identify in-field technology that may provide greater diagnostic insight into determinants of efficacy for various training methods to optimize base running ability; and, 3) detail training methods currently used for curvilinear sprint training and suggest more effective options. 
 
-<a class="btn-primary" href="article_6/GPS_approach.html">Read the article →</a>
+<a class="btn-primary" href="articles/Chapter4.html">Read the article →</a>
 </div>
 </div>
 
@@ -46,25 +46,25 @@ Base Running Science is my long-term professional project: an independent, evide
 
 ## Why it matters
 
-Base running performance directly impacts baseball outcomes, yet it remains one of the least studied and integrated movement domains in the sport. By profiling **linear and curvilinear sprint ability**—and how athletes apply force in these contexts—we can drive a cultural shift toward scientifically grounded base running development: turning data into information, information into knowledge, and knowledge into best practice.
+Base running ability directly impacts baseball outcomes, yet it remains one of the least studied and integrated movement domains in the sport. By profiling **linear and curvilinear sprint ability**—and how athletes apply force in these contexts—we can drive a cultural shift toward scientifically grounded base running development: turning data into information, information into knowledge, and knowledge into best practice.
 
 ## Research highlights
 
 <div class="cards">
 
 <div class="card">
-<div class="card-title">IMU Foot Pod Reliabilty</div>
-<div class="card-text">Foot pod technology is a reliable tool for assessing baseball base running mechanics.</div>
+<div class="card-title">Base Running Efficiency: A GPS Approach</div>
+<div class="card-text">Methodological framework for using GPS technology to enhance the analysis and interpretation of base running performance through segment-specific velocity and time diagnostics.</div>
 </div>
 
 <div class="card">
-<div class="card-title">GPS Reliability</div>
-<div class="card-text">Speed at 41.1 m should be considered for return-to-play and short-term performance tracking, while peak speed before first base and peak speed before second base and after first base may be used cautiously when larger performance changes are expected.</div>
+<div class="card-title">Base Running Efficiency: A Foot Pod Approach</div>
+<div class="card-text">To illustrate how IMU-derived spatiotemporal variables may be interpreted across successive base running segments in applied settings.</div>
 </div>
 
 <div class="card">
-<div class="card-title">Inside vs. Outside Foot Asymmetry</div>
-<div class="card-text">Inside–outside foot asymmetries are driven by the linear and curvilinear demands of specific segments, peaking in Segment 3 where stabilization demands are greatest.</div>
+<div class="card-title">Linear-Curvilinear Literature</div>
+<div class="card-text">Evaluate understanding of foot-ankle complex mechanics, muscular output by the lower limbs, and distinct functions of the inside and outside leg providing valuable frameworks for analyzing curvilinear running mechanics.</div>
 </div>
 
 </div>

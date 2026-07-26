@@ -1,0 +1,44 @@
+---
+title: "New Perspectives on Analyzing and Interpreting Base Running Efficiency: An IMU Foot Pod Methodological Case Approach"
+
+date: 2026-04-26
+
+description: > 
+  This article presents a practical framework for implementing, collecting, and interpreting inertial measurement unit (IMU) foot pod data to improve diagnostic understanding of baseball base running mechanics. Linear sprinting is used as a baseline, whereas the home-to-second-base sprint trial is used to examine how that capacity is expressed when athletes negotiate curvilinear running demands. The purpose is not to establish generalized performance outcomes, but to illustrate how IMU-derived spatiotemporal variables may be interpreted across successive base running segments in applied settings. Three competitive baseball players were selected from a larger dataset of n = 54 base runners tested using the same protocol with distinct home-to-second-base performance profiles as follows: the fastest case (Player X), an intermediate case (Player Y), and the slowest case (Player Z) were selected based on total home-to-second-base time. The cases were selected purposively to demonstrate the application of the IMU interpretation framework, including ground contact time (GCT), stride length (SL), push-off acceleration, and impact acceleration. Particular emphasis is placed on how curvilinear demands alter inside- and outside-foot function, and how segment-to-segment comparisons may help practitioners identify phases in which base runners maintain, reorganize, or lose mechanical efficiency. Compared with broader velocity-based approaches, the IMU framework provides complementary step-level information that may help practitioners generate hypotheses about how base runners organize movement across linear and curvilinear segments. These examples are intended to demonstrate a workflow for applied interpretation rather than to establish causal mechanisms. As a result, IMU foot pod analysis may offer practitioners a structured and portable method for interpreting curvilinear sprint mechanics, yet these case examples should be understood as descriptive rather than prescriptive.
+
+categories: [monitoring; mechanics; sprinting; curvilinear running]
+
+image: Footpod_chapter8.png
+output-file: Footpod_chapter8.html
+
+---
+
+## Context
+
+Base running science is not just a matter of raw sprint speed.
+
+Our recent article in Applied Sciences, “New Perspectives on Analyzing and Interpreting Base Running Efficiency: An IMU Foot Pod Methodological Case Approach,” presents a practical framework for using IMU foot-pod data to evaluate how base runners organise their mechanics across linear and curvilinear sprinting demands.
+
+The article uses linear sprinting as a baseline and the home-to-second-base sprint as a baseball-specific task to examine how base runners express speed while entering, negotiating, and exiting the curve around first base.
+
+The framework focuses on step-level variables such as:
+
+• Ground contact time
+• Stride length
+• Push-off acceleration
+• Impact acceleration
+• Inside- and outside-foot asymmetry
+• Linear-to-curvilinear percent differences
+
+A key message from the paper is that asymmetry should not automatically be interpreted as dysfunction. In curvilinear running, inside- and outside-foot roles may change by segment, task demand, and individual athlete strategy.
+
+For practitioners, this approach offers a more detailed way to investigate why speed is gained, maintained, or lost during base running. Rather than relying only on timing splits or velocity outputs, IMU foot-pod analysis can help identify whether performance changes are associated with longer ground contact times, insufficient propulsion, excessive braking, or altered foot-specific mechanics.
+
+The article is intended as a methodological and interpretive framework, not a set of universal performance norms. Its value lies in showing how wearable sensor data can support more individualized decision-making in baseball performance environments.
+---
+
+![](../articles/Footpod_chapter8.png)
+
+**Where it's published:**
+
+[Read the full article](https://www.mdpi.com/1424-8220/26/8/2378){target="\_blank"}
