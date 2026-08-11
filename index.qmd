@@ -40,7 +40,7 @@ This article explored the following; 1) review the literature identifying the te
 
 I am a doctoral researcher in Sport and Exercise Science at Auckland University of Technology (AUT) and a member of the Sports Performance Research Institute New Zealand (SPRINZ). My work focuses on advancing base running performance in baseball through data-driven, sport-specific assessment and training—particularly the often-overlooked demands of **curvilinear sprinting** in game contexts.
 
-## Base Running Science
+## What is Base Running Science?
 
 **Base Running Science** is an independent, evidence-informed framework focused on how baseball players maintain speed while negotiating the curvilinear demands of running multiple bases. It translates base-running science into practical solutions through consultancy and advisory services, baseball-specific diagnostics, performance software and decision-support tools, and informed exercise prescription.
 
@@ -50,7 +50,7 @@ I am a doctoral researcher in Sport and Exercise Science at Auckland University 
 
 **Improving** → translating data into information to create knowledge that improve coaching decisions and exercise prescription. 
 
-## Why it matters
+## Why it matters?
 
 Base running ability directly impacts baseball outcomes, yet it remains one of the least studied and integrated movement domains in the sport. By profiling **linear and curvilinear sprint ability**—and how athletes apply force in these contexts—we can drive a cultural shift toward scientifically grounded base running development: turning data into information, information into knowledge, and knowledge into best practice.
 
