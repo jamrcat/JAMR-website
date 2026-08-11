@@ -67,5 +67,11 @@
   },
   "articles/Chapter4.qmd": {
     "Chapter4.html": "03367ab4"
+  },
+  "articles/article_4/Chapter4.qmd": {
+    "Chapter4.html": "43892d58"
+  },
+  "articles/article_8/Chapter 8.qmd": {
+    "Footpod_chapter8.html": "6903fea0"
   }
 }

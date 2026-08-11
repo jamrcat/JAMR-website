@@ -2,8 +2,8 @@
   {
     "listing": "/articles.html",
     "items": [
-      "/articles/Chapter4.html",
-      "/articles/Footpod_chapter8.html",
+      "/articles/article_4/Chapter4.html",
+      "/articles/article_8/Footpod_chapter8.html",
       "/articles/article_6/GPS_approach.html",
       "/articles/article_7/IMU_reliability.html",
       "/articles/article_5/GPS_reliability.html",

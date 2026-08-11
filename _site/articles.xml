@@ -13,7 +13,7 @@
 <lastBuildDate>Mon, 20 Jul 2026 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Improving Base Running in Baseball A Linear-Curvilinear Perspective</title>
-  <link>https://jamrbaserunningscience.netlify.app/articles/Chapter4.html</link>
+  <link>https://jamrbaserunningscience.netlify.app/articles/article_4/Chapter4.html</link>
   <description><![CDATA[ 
 
 
@@ -52,20 +52,20 @@
 <p>Advancing this area will require baseball-specific intervention studies comparing linear sprinting, curvilinear sprinting, resisted sprinting, strength and power development, and wearable-resistance training across different ages, positions, competitive levels, and sexes.</p>
 <p>Better measurement can lead to better exercise prescription—and, ultimately, safer and more effective base-running development.</p>
 <hr>
-<p><img src="https://jamrbaserunningscience.netlify.app/articles/Chapter4.png" class="img-fluid"></p>
+<p><img src="https://jamrbaserunningscience.netlify.app/articles/articles/Chapter4.png" class="img-fluid"></p>
 
 
 </section>
 
  ]]></description>
   <category>Change of Direction; Resistance Training; Base Running Assessment; Running Biomechanics; Wearable Resistance Training</category>
-  <guid>https://jamrbaserunningscience.netlify.app/articles/Chapter4.html</guid>
+  <guid>https://jamrbaserunningscience.netlify.app/articles/article_4/Chapter4.html</guid>
   <pubDate>Mon, 20 Jul 2026 04:00:00 GMT</pubDate>
-  <media:content url="https://jamrbaserunningscience.netlify.app/articles/Chapter4.png" medium="image" type="image/png" height="47" width="144"/>
+  <media:content url="https://jamrbaserunningscience.netlify.app/articles/article_4/Chapter4.png" medium="image" type="image/png" height="47" width="144"/>
 </item>
 <item>
   <title>New Perspectives on Analyzing and Interpreting Base Running Efficiency: An IMU Foot Pod Methodological Case Approach</title>
-  <link>https://jamrbaserunningscience.netlify.app/articles/Footpod_chapter8.html</link>
+  <link>https://jamrbaserunningscience.netlify.app/articles/article_8/Footpod_chapter8.html</link>
   <description><![CDATA[ 
 
 
@@ -81,7 +81,7 @@
 <p>For practitioners, this approach offers a more detailed way to investigate why speed is gained, maintained, or lost during base running. Rather than relying only on timing splits or velocity outputs, IMU foot-pod analysis can help identify whether performance changes are associated with longer ground contact times, insufficient propulsion, excessive braking, or altered foot-specific mechanics.</p>
 <p>The article is intended as a methodological and interpretive framework, not a set of universal performance norms. Its value lies in showing how wearable sensor data can support more individualized decision-making in baseball performance environments.</p>
 <hr>
-<p><img src="https://jamrbaserunningscience.netlify.app/articles/Footpod_chapter8.png" class="img-fluid"></p>
+<p><img src="https://jamrbaserunningscience.netlify.app/articles/articles/Footpod_chapter8.png" class="img-fluid"></p>
 <p><strong>Where it’s published:</strong></p>
 <p><a href="https://www.mdpi.com/1424-8220/26/8/2378" target="_blank">Read the full article</a></p>
 
@@ -90,9 +90,9 @@
 
  ]]></description>
   <category>monitoring; mechanics; sprinting; curvilinear running</category>
-  <guid>https://jamrbaserunningscience.netlify.app/articles/Footpod_chapter8.html</guid>
+  <guid>https://jamrbaserunningscience.netlify.app/articles/article_8/Footpod_chapter8.html</guid>
   <pubDate>Sun, 26 Apr 2026 04:00:00 GMT</pubDate>
-  <media:content url="https://jamrbaserunningscience.netlify.app/articles/Footpod_chapter8.png" medium="image" type="image/png" height="190" width="144"/>
+  <media:content url="https://jamrbaserunningscience.netlify.app/articles/article_8/Footpod_chapter8.png" medium="image" type="image/png" height="190" width="144"/>
 </item>
 <item>
   <title>New Perspectives on Analyzing and Interpreting Base Running Efficiency: A GPS Approach</title>
