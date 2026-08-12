@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - assets/merch/**
 
 website:
   site-url: https://jamrbaserunningscience.netlify.app 
