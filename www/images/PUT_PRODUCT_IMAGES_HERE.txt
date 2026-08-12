@@ -1,0 +1,5 @@
+Replace/add the four product images here using these filenames:
+short-sleeve.jpg
+long-sleeve.jpg
+hoodie.jpg
+training-shorts.jpg

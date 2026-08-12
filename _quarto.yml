@@ -19,6 +19,8 @@ website:
         text: Updates
       - href: contact.qmd
         text: Contact
+      - href: merch.qmd
+        text: Merch Concept
   page-footer:
     center:
       - icon: instagram

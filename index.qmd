@@ -75,6 +75,18 @@ Base running ability directly impacts baseball outcomes, yet it remains one of t
 
 </div>
 
+
+## Base Running Merch Concept
+
+<div class="merch-home-teaser">
+<div>
+<div class="merch-home-kicker">RESEARCH-INSPIRED APPAREL</div>
+<h3>Base Running Science, translated into a merch catalog.</h3>
+<p>Explore individual pieces and thesis-topic sets such as Curvilinear Ability, The Need for Speed, GPS Diagnostics, Functional Asymmetry, and Training the Curve.</p>
+<a class="btn-primary" href="merch.html">View the merch concept →</a>
+</div>
+</div>
+
 ## Selected writing
 
 - [Browse all articles →](articles.qmd)
