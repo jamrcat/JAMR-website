@@ -28,7 +28,7 @@ page-layout: full
 
 <div class="merch-product-card">
 <div class="merch-photo-slot" data-image="assets/merch/long-sleeve.jpg"><span>Long Sleeve Photo<small>assets/merch/long-sleeve.jpg</small></span></div>
-<div class="merch-product-copy"><h3>Long Sleeve</h3><p>Performance Shirt</p><div class="merch-product-price">$45</div></div>
+<div class="merch-product-copy"><h3>Long Sleeve</h3><p>Performance Shirt</p><div class="merch-product-price">$44</div></div>
 </div>
 
 <div class="merch-product-card">
@@ -65,7 +65,7 @@ page-layout: full
 <h3>Linear–Curvilinear Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
 <p class="merch-includes">Long Sleeve + Training Shorts</p>
-<div class="merch-pricing"><strong>$75</strong><span>Regular $79 · Save $4</span></div>
+<div class="merch-pricing"><strong>$74</strong><span>Regular $78 · Save $4</span></div>
 </div>
 
 <div class="merch-bundle-card">
@@ -81,7 +81,7 @@ page-layout: full
 <h3>The Need for Speed Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div></div>
 <p class="merch-includes">Short Sleeve + Long Sleeve</p>
-<div class="merch-pricing"><strong>$76</strong><span>Regular $80 · Save $4</span></div>
+<div class="merch-pricing"><strong>$75</strong><span>Regular $79 · Save $4</span></div>
 </div>
 
 <div class="merch-bundle-card">
@@ -97,7 +97,7 @@ page-layout: full
 <h3>IMU Foot-Pod Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div></div>
 <p class="merch-includes">Long Sleeve + Sleeveless Hoodie</p>
-<div class="merch-pricing"><strong>$94</strong><span>Regular $99 · Save $5</span></div>
+<div class="merch-pricing"><strong>$93</strong><span>Regular $98 · Save $5</span></div>
 </div>
 
 <div class="merch-bundle-card">
@@ -105,7 +105,7 @@ page-layout: full
 <h3>Segment-Specific Analysis Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
 <p class="merch-includes">Short Sleeve + Long Sleeve + Training Shorts</p>
-<div class="merch-pricing"><strong>$105</strong><span>Regular $114 · Save $9</span></div>
+<div class="merch-pricing"><strong>$104</strong><span>Regular $113 · Save $9</span></div>
 </div>
 
 <div class="merch-bundle-card">
@@ -121,7 +121,7 @@ page-layout: full
 <h3>Velocity–Time Profile Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
 <p class="merch-includes">Long Sleeve + Sleeveless Hoodie + Training Shorts</p>
-<div class="merch-pricing"><strong>$123</strong><span>Regular $133 · Save $10</span></div>
+<div class="merch-pricing"><strong>$122</strong><span>Regular $132 · Save $10</span></div>
 </div>
 
 <div class="merch-bundle-card">
@@ -129,7 +129,7 @@ page-layout: full
 <h3>New Perspectives Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div></div>
 <p class="merch-includes">Short Sleeve + Long Sleeve + Sleeveless Hoodie</p>
-<div class="merch-pricing"><strong>$124</strong><span>Regular $134 · Save $10</span></div>
+<div class="merch-pricing"><strong>$123</strong><span>Regular $133 · Save $10</span></div>
 </div>
 
 <div class="merch-bundle-card merch-bundle-featured">
@@ -137,12 +137,12 @@ page-layout: full
 <h3>Training the Curve Complete Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
 <p class="merch-includes">All four Base Running Science pieces</p>
-<div class="merch-pricing"><strong>$152</strong><span>Regular $168 · Save $16</span></div>
+<div class="merch-pricing"><strong>$151</strong><span>Regular $167 · Save $16</span></div>
 </div>
 
 </div>
 
-<div class="merch-note"><strong>Concept catalog.</strong> Shipping is calculated separately. The set names do not represent claims that the apparel itself changes athletic performance.</div>
+<div class="merch-note"><strong>Concept catalog.</strong> Shipping fee and tax are calculated separately. The set names do not represent claims that the apparel itself changes athletic performance.</div>
 
 </section>
 </div>
