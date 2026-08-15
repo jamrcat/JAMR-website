@@ -10,7 +10,7 @@ page-layout: full
 <img src="assets/me.jpg" class="hero-portrait" alt="José Antonio Martínez-Rodríguez">
 </div>
 
-<div class="hero-kicker">RUN THE CURVE · READ THE DATA</div>
+<div class="hero-kicker">SPEED MATTERS MOST</div>
 
 # José Antonio Martínez-Rodríguez
 
