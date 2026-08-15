@@ -900,3 +900,11 @@ function throttle(func, wait) {
 function nexttick(func) {
   return setTimeout(func, 0);
 }
+
+// Load the Base Running Science brand layer for this pre-rendered site.
+document.addEventListener("DOMContentLoaded", () => {
+  const offset = document.querySelector('meta[name="quarto:offset"]')?.content || "./";
+  const script = document.createElement("script");
+  script.src = new URL(`${offset}assets/brand.js`, window.location.href).href;
+  document.body.appendChild(script);
+}, { once: true });

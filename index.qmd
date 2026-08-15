@@ -5,7 +5,12 @@ page-layout: full
 
 <div class="hero-section">
 
-<img src="assets/me.jpg" width="280" style="border-radius:16px;">
+<div class="hero-visuals">
+<img src="assets/base-running-science-logo.png" class="brand-hero-logo" alt="Base Running Science logo">
+<img src="assets/me.jpg" class="hero-portrait" alt="José Antonio Martínez-Rodríguez">
+</div>
+
+<div class="hero-kicker">RUN THE CURVE · READ THE DATA</div>
 
 # José Antonio Martínez-Rodríguez
 

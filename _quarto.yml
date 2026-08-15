@@ -2,12 +2,14 @@ project:
   type: website
   output-dir: _site
   resources:
-    - assets/merch/**
+    - assets/**
 
 website:
   site-url: https://jamrbaserunningscience.netlify.app 
-  title: "José Antonio Martínez-Rodríguez"
+  title: "Base Running Science"
+  favicon: assets/base-running-science-logo.png
   navbar:
+    logo: assets/base-running-science-logo.png
     left:
       - href: index.qmd
         text: Home
@@ -36,4 +38,5 @@ format:
     toc: false
     page-layout: full
     css: styles.css
+    include-after-body: brand.html
  
