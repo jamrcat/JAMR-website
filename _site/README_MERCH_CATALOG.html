@@ -154,6 +154,18 @@ ul.task-list li input[type="checkbox"] {
 <p>The catalog detects those files automatically. Until they are present, clean photo placeholders are shown.</p>
 <p>If you deploy the prebuilt <code>_site</code> folder without running Quarto locally, also copy the same four image files into <code>_site/assets/merch/</code>. If you run <code>quarto render</code>, Quarto will copy the source assets into <code>_site</code> for you.</p>
 </section>
+<section id="shopify-checkout-connection" class="level2">
+<h2 class="anchored" data-anchor-id="shopify-checkout-connection">Shopify checkout connection</h2>
+<p>The catalog is ready to redirect customers to Shopify product pages. Shopify then handles product variants such as size, quantity, shipping, tax, and secure payment.</p>
+<p>To activate the buttons:</p>
+<ol type="1">
+<li>Open <code>assets/shopify-config.js</code>.</li>
+<li>Set <code>storeUrl</code> to the final storefront domain, for example <code>https://base-running-science.myshopify.com</code> or the connected custom domain.</li>
+<li>Make each <code>handle</code> match its Shopify product handle. A full Shopify product URL can be pasted into an item’s <code>url</code> field when a direct override is easier.</li>
+<li>Run <code>quarto render</code> so the updated configuration is copied to <code>_site</code>.</li>
+</ol>
+<p>Until a valid HTTPS store URL is added, the catalog displays non-clickable <strong>Shopify checkout coming soon</strong> buttons rather than sending visitors to a broken page.</p>
+</section>
 <section id="current-prices" class="level2">
 <h2 class="anchored" data-anchor-id="current-prices">Current prices</h2>
 <ul>

@@ -51,6 +51,23 @@
       visuals.insertAdjacentElement("afterend", kicker);
     }
 
+    const merchCatalog = document.querySelector("#base-running-merch-concept");
+    if (merchCatalog && !document.querySelector("[data-brs-shopify-loader]")) {
+      const loadScript = (src, marker) => new Promise((resolve, reject) => {
+        const script = document.createElement("script");
+        script.src = src;
+        script.async = false;
+        script.dataset.brsShopifyLoader = marker;
+        script.addEventListener("load", resolve, { once: true });
+        script.addEventListener("error", reject, { once: true });
+        document.head.appendChild(script);
+      });
+
+      loadScript(new URL(`${offset}assets/shopify-config.js`, window.location.href).href, "config")
+        .then(() => loadScript(new URL(`${offset}assets/shopify-merch.js`, window.location.href).href, "integration"))
+        .catch(() => merchCatalog.classList.add("shopify-integration-unavailable"));
+    }
+
     const progress = document.createElement("button");
     progress.className = "runner-progress";
     progress.type = "button";

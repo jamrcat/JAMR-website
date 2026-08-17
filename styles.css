@@ -502,6 +502,81 @@ details[open] summary::after {
 .merch-home-teaser h3{ margin:0 0 8px; }
 .merch-home-teaser p{ margin-bottom:12px; }
 
+/* Shopify-ready merch checkout */
+.shopify-flow-note{
+  display:flex;
+  align-items:center;
+  gap:14px;
+  margin:0 0 34px;
+  padding:15px 18px;
+  border:1px solid rgba(6,49,78,.14);
+  border-left:4px solid #fa5051;
+  border-radius:14px;
+  background:#f4f9fc;
+  color:#5e7787;
+  font-size:.88rem;
+  line-height:1.45;
+}
+
+.shopify-flow-note strong{
+  flex:0 0 auto;
+  color:#06314e;
+}
+
+.shopify-flow-note.is-connected{
+  border-left-color:#0c6fae;
+  background:#eef7fc;
+}
+
+.shopify-buy-link{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  width:calc(100% - 36px);
+  min-height:44px;
+  margin:0 18px 20px;
+  padding:10px 14px;
+  border:1px solid #0c6fae;
+  border-radius:10px;
+  background:#0c6fae;
+  color:#fff !important;
+  font-size:.82rem;
+  font-weight:800;
+  line-height:1.25;
+  text-align:center !important;
+  text-decoration:none;
+  transition:transform .18s ease,background-color .18s ease,box-shadow .18s ease;
+}
+
+.shopify-buy-link:hover{
+  border-color:#06314e;
+  background:#06314e;
+  box-shadow:0 10px 22px rgba(6,49,78,.20);
+  color:#fff !important;
+  transform:translateY(-2px);
+}
+
+.shopify-buy-link.is-disabled{
+  border-color:rgba(6,49,78,.12);
+  background:#edf1f3;
+  color:#6c7d87 !important;
+  cursor:not-allowed;
+  box-shadow:none;
+}
+
+.merch-product-copy .shopify-buy-link{
+  width:100%;
+  margin:16px 0 0;
+}
+
+.merch-bundle-card > .shopify-buy-link{
+  margin-top:16px;
+}
+
+@media (max-width:650px){
+  .shopify-flow-note{ align-items:flex-start; flex-direction:column; gap:4px; }
+}
+
 /* ================= BASE RUNNING SCIENCE BRAND SYSTEM ================= */
 :root{
   --brs-navy:#06314e;

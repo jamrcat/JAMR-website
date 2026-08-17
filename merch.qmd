@@ -21,22 +21,22 @@ page-layout: full
 
 <div class="merch-product-grid">
 
-<div class="merch-product-card">
+<div class="merch-product-card" data-shopify-id="short-sleeve">
 <div class="merch-photo-slot" data-image="assets/merch/short-sleeve.jpg"><span>Short Sleeve Photo<small>assets/merch/short-sleeve.jpg</small></span></div>
 <div class="merch-product-copy"><h3>Short Sleeve</h3><p>Performance Shirt</p><div class="merch-product-price">$35</div></div>
 </div>
 
-<div class="merch-product-card">
+<div class="merch-product-card" data-shopify-id="long-sleeve">
 <div class="merch-photo-slot" data-image="assets/merch/long-sleeve.jpg"><span>Long Sleeve Photo<small>assets/merch/long-sleeve.jpg</small></span></div>
 <div class="merch-product-copy"><h3>Long Sleeve</h3><p>Performance Shirt</p><div class="merch-product-price">$44</div></div>
 </div>
 
-<div class="merch-product-card">
+<div class="merch-product-card" data-shopify-id="sleeveless-hoodie">
 <div class="merch-photo-slot" data-image="assets/merch/hoodie.jpg"><span>Hoodie Photo<small>assets/merch/hoodie.jpg</small></span></div>
 <div class="merch-product-copy"><h3>Sleeveless Hoodie</h3><p>Performance Hoodie</p><div class="merch-product-price">$54</div></div>
 </div>
 
-<div class="merch-product-card">
+<div class="merch-product-card" data-shopify-id="training-shorts">
 <div class="merch-photo-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>Training Shorts Photo<small>assets/merch/training-shorts.jpg</small></span></div>
 <div class="merch-product-copy"><h3>Training Shorts</h3><p>Integrated Compression Liner</p><div class="merch-product-price">$34</div></div>
 </div>
@@ -52,7 +52,7 @@ page-layout: full
 
 <div class="merch-bundle-grid">
 
-<div class="merch-bundle-card">
+<div class="merch-bundle-card" data-shopify-id="curvilinear-ability-set">
 <div class="merch-bundle-meta"><span>01</span><span>Curvilinear ability</span></div>
 <h3>Curvilinear Ability Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
@@ -60,7 +60,7 @@ page-layout: full
 <div class="merch-pricing"><strong>$66</strong><span>Regular $69 · Save $3</span></div>
 </div>
 
-<div class="merch-bundle-card">
+<div class="merch-bundle-card" data-shopify-id="linear-curvilinear-set">
 <div class="merch-bundle-meta"><span>02</span><span>Linear–curvilinear characteristics</span></div>
 <h3>Linear–Curvilinear Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
@@ -68,7 +68,7 @@ page-layout: full
 <div class="merch-pricing"><strong>$74</strong><span>Regular $78 · Save $4</span></div>
 </div>
 
-<div class="merch-bundle-card">
+<div class="merch-bundle-card" data-shopify-id="inside-outside-mechanics-set">
 <div class="merch-bundle-meta"><span>03</span><span>Inside–outside foot mechanics</span></div>
 <h3>Inside–Outside Mechanics Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
@@ -76,7 +76,7 @@ page-layout: full
 <div class="merch-pricing"><strong>$84</strong><span>Regular $88 · Save $4</span></div>
 </div>
 
-<div class="merch-bundle-card">
+<div class="merch-bundle-card" data-shopify-id="need-for-speed-set">
 <div class="merch-bundle-meta"><span>04</span><span>The need for speed</span></div>
 <h3>The Need for Speed Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div></div>
@@ -84,7 +84,7 @@ page-layout: full
 <div class="merch-pricing"><strong>$75</strong><span>Regular $79 · Save $4</span></div>
 </div>
 
-<div class="merch-bundle-card">
+<div class="merch-bundle-card" data-shopify-id="gps-diagnostics-set">
 <div class="merch-bundle-meta"><span>05</span><span>GPS diagnostics</span></div>
 <h3>GPS Diagnostics Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div></div>
@@ -92,7 +92,7 @@ page-layout: full
 <div class="merch-pricing"><strong>$85</strong><span>Regular $89 · Save $4</span></div>
 </div>
 
-<div class="merch-bundle-card">
+<div class="merch-bundle-card" data-shopify-id="imu-foot-pod-set">
 <div class="merch-bundle-meta"><span>06</span><span>IMU foot-pod diagnostics</span></div>
 <h3>IMU Foot-Pod Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div></div>
@@ -100,7 +100,7 @@ page-layout: full
 <div class="merch-pricing"><strong>$93</strong><span>Regular $98 · Save $5</span></div>
 </div>
 
-<div class="merch-bundle-card">
+<div class="merch-bundle-card" data-shopify-id="segment-specific-analysis-set">
 <div class="merch-bundle-meta"><span>07</span><span>Segment-specific analysis</span></div>
 <h3>Segment-Specific Analysis Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
@@ -108,7 +108,7 @@ page-layout: full
 <div class="merch-pricing"><strong>$104</strong><span>Regular $113 · Save $9</span></div>
 </div>
 
-<div class="merch-bundle-card">
+<div class="merch-bundle-card" data-shopify-id="functional-asymmetry-set">
 <div class="merch-bundle-meta"><span>08</span><span>Functional asymmetries</span></div>
 <h3>Functional Asymmetry Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
@@ -116,7 +116,7 @@ page-layout: full
 <div class="merch-pricing"><strong>$114</strong><span>Regular $123 · Save $9</span></div>
 </div>
 
-<div class="merch-bundle-card">
+<div class="merch-bundle-card" data-shopify-id="velocity-time-profile-set">
 <div class="merch-bundle-meta"><span>09</span><span>Velocity–time profiles</span></div>
 <h3>Velocity–Time Profile Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
@@ -124,7 +124,7 @@ page-layout: full
 <div class="merch-pricing"><strong>$122</strong><span>Regular $132 · Save $10</span></div>
 </div>
 
-<div class="merch-bundle-card">
+<div class="merch-bundle-card" data-shopify-id="new-perspectives-set">
 <div class="merch-bundle-meta"><span>10</span><span>New perspectives</span></div>
 <h3>New Perspectives Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div></div>
@@ -132,7 +132,7 @@ page-layout: full
 <div class="merch-pricing"><strong>$123</strong><span>Regular $133 · Save $10</span></div>
 </div>
 
-<div class="merch-bundle-card merch-bundle-featured">
+<div class="merch-bundle-card merch-bundle-featured" data-shopify-id="training-the-curve-complete-set">
 <div class="merch-bundle-meta"><span>11</span><span>Training the curve</span></div>
 <h3>Training the Curve Complete Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>

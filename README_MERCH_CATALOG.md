@@ -23,6 +23,25 @@ The catalog detects those files automatically. Until they are present, clean pho
 
 If you deploy the prebuilt `_site` folder without running Quarto locally, also copy the same four image files into `_site/assets/merch/`. If you run `quarto render`, Quarto will copy the source assets into `_site` for you.
 
+## Shopify checkout connection
+
+The catalog is ready to redirect customers to Shopify product pages. Shopify
+then handles product variants such as size, quantity, shipping, tax, and secure
+payment.
+
+To activate the buttons:
+
+1. Open `assets/shopify-config.js`.
+2. Set `storeUrl` to the final storefront domain, for example
+   `https://base-running-science.myshopify.com` or the connected custom domain.
+3. Make each `handle` match its Shopify product handle. A full Shopify product
+   URL can be pasted into an item's `url` field when a direct override is easier.
+4. Run `quarto render` so the updated configuration is copied to `_site`.
+
+Until a valid HTTPS store URL is added, the catalog displays non-clickable
+**Shopify checkout coming soon** buttons rather than sending visitors to a
+broken page.
+
 ## Current prices
 
 - Short Sleeve — $35
