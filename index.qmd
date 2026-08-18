@@ -14,7 +14,7 @@ page-layout: full
 
 # José Antonio Martínez-Rodríguez
 
-**Base Running Science**
+**Base Running Science™**
 
 Doctoral researcher (Sport & Exercise Science) |
 Auckland University of Technology (AUT) |
@@ -45,21 +45,21 @@ This article explored the following; 1) review the literature identifying the te
 
 I am a doctoral researcher in Sport and Exercise Science at Auckland University of Technology (AUT) and a member of the Sports Performance Research Institute New Zealand (SPRINZ). My work focuses on advancing base running performance in baseball through data-driven, sport-specific assessment and training—particularly the often-overlooked demands of **curvilinear sprinting** in game contexts.
 
-## What is Base Running Science?
+## What is Base Running Science™?
 
-**Base Running Science** is an independent, evidence-informed framework focused on how baseball players maintain speed while negotiating the curvilinear demands of running multiple bases. It translates base-running science into practical solutions through consultancy and advisory services, baseball-specific diagnostics, performance software and decision-support tools, and informed exercise prescription.
+**Base Running Science™** is an independent, evidence-informed framework focused on how baseball players maintain speed while negotiating the curvilinear demands of running multiple bases. It translates base running science into practical solutions through consultancy and advisory services, baseball-specific diagnostics, performance software and decision-support tools, and informed exercise prescription.
 
 **Understanding** → the science of linear vs. curvilinear movement and how athletes enter, negotiate, and exit the curve. Base-running-specific interpretative framework.
 
 **Assessing** → diagnostics using GPS-time, -velocity, and IMU foot pod variables for segmental analysis. 
 
-**Improving** → translating data into information to create knowledge that improve coaching decisions and exercise prescription. 
+**Improving** → translating data into information to create knowledge that improves coaching decisions and exercise prescription. 
 
-## Why Base Running Science matters?
+## Why does Base Running Science™ matters?
 
-Base running can influence critical moments in baseball, yet it remains comparatively underexplored and underintegrated within player development. While linear sprint speed is important, running multiple bases introduces curvilinear movement demands that require athletes to accelerate, negotiate the curve, manage changes in direction, and maintain velocity throughout the running path. Base Running Science addresses this gap by examining linear and curvilinear sprint performance, force production, and the movement characteristics that may influence efficient multiple-base running. By transforming data into meaningful information, information into actionable knowledge, and knowledge into evidence-informed practice, Base Running Science aims to advance how base running is assessed, trained, and integrated into long-term player development.
+Base running can influence critical moments in baseball, yet it remains comparatively underexplored and underintegrated within player development. While linear sprint speed is important, running multiple bases introduces curvilinear movement demands that require athletes to accelerate, negotiate the curve, manage changes in direction, and maintain velocity throughout the running path. Base Running Science™ addresses this gap by examining linear and curvilinear sprint performance, force production, and the movement characteristics that may influence efficient multiple-base running. By transforming data into meaningful information, information into actionable knowledge, and knowledge into evidence-informed practice, Base Running Science™ aims to advance how base running is assessed, trained, and integrated into long-term player development.
 
-## Base Running Science framework
+## Base Running Science™ framework
 
 **ASSESS → BUILD → INTEGRATE → OVERLOAD → REASSESS**
 
@@ -71,7 +71,7 @@ Base running can influence critical moments in baseball, yet it remains comparat
 
 **Overload** the task when a greater stimulus is required.
 
-**Reassess** whether the athlete actually changed where it matters.
+**Reassess** to explore.
 
 ## Research highlights
 
@@ -95,12 +95,12 @@ Base running can influence critical moments in baseball, yet it remains comparat
 </div>
 
 
-## Base Running Merch Concept
+## Base Running Science™ Merch Concept
 
 <div class="merch-home-teaser">
 <div>
 <div class="merch-home-kicker">RESEARCH-INSPIRED APPAREL</div>
-<h3>Base Running Science, translated into a merch catalog.</h3>
+<h3>Base Running Science™, translated into a merch catalog.</h3>
 <p>Explore individual pieces and thesis-topic sets such as Curvilinear Ability, The Need for Speed, GPS Diagnostics, Functional Asymmetry, and Training the Curve.</p>
 <a class="btn-primary" href="merch.html">View the merch concept →</a>
 </div>
