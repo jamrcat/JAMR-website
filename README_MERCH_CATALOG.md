@@ -42,6 +42,18 @@ Until a valid HTTPS store URL is added, the catalog displays non-clickable
 **Shopify checkout coming soon** buttons rather than sending visitors to a
 broken page.
 
+## Local pickup
+
+The merch page includes a satellite Google Map and red place marker for the
+pickup location at Zonactiva Kids, 151 Calle Federico Acosta, San Juan, Puerto
+Rico 00918. Customers are instructed to bring all of the following before an
+order is released:
+
+- transaction or order number;
+- name used for the purchase;
+- digital or printed receipt; and
+- valid photo identification.
+
 ## Current prices
 
 - Short Sleeve — $35
