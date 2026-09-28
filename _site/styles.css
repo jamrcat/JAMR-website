@@ -1151,3 +1151,24 @@ a:hover{ color:var(--brs-navy); border-bottom-color:var(--brs-red); }
 @media print{
   .runner-progress{ display:none; }
 }
+
+/* Service launch pages retain the existing BRS palette and branding. */
+.brs-actions { display:flex; flex-wrap:wrap; gap:1rem; margin-top:1.5rem; }
+.brs-secondary { display:inline-block; padding:12px 18px; border:1px solid white; border-radius:12px; color:white!important; text-decoration:none; }
+.brs-service-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1.2rem; }
+.brs-service-card { padding:1.4rem; border:1px solid #d8e3e8; border-radius:18px; background:#f5fafc; }
+.brs-service-card h3 { margin-top:0; }
+.brs-enquiry { max-width:740px; display:grid; gap:.7rem; margin-block:1.5rem; }
+.brs-enquiry label { font-weight:650; margin-top:.5rem; }
+.brs-enquiry input,.brs-enquiry select,.brs-enquiry textarea { width:100%; padding:.75rem; border:1px solid #748f9f; border-radius:8px; font:inherit; background:white; color:#163747; }
+.brs-enquiry button { justify-self:start; cursor:pointer; }
+.brs-copy { padding:.6rem 1rem; border:1px solid #0e5475; border-radius:8px; background:white; color:#0e5475; }
+.brs-enquiry :focus-visible { outline:3px solid #197fa5; outline-offset:3px; }
+#enquiry-help { font-size:.95rem; }
+
+@media(max-width:700px){ .brs-service-grid{grid-template-columns:1fr;} .hero-section h1{font-size:2.3rem;} table{font-size:.9rem;} }
+
+/* Keep the founder and brand together at every screen size. */
+.hero-section .hero-visuals { gap: 10px; flex-wrap: nowrap; }
+.hero-section .brand-hero-logo { object-fit: contain; flex-shrink: 0; }
+.hero-section .hero-portrait { flex-shrink: 0; }

@@ -15,7 +15,7 @@ output-file: GPS_reliability.html
 
 ## Context
 
-The first peer-reviewed scientific publication emerging from the Carlos Beltran Baseball Academy—an institution inspired by the standards of a Hall of Famer—marks a decisive step forward in Sport Science by placing Base Running Science at the forefront of evidence-based baseball performance.
+The first peer-reviewed scientific publication emerging from the Carlos Beltran Baseball Academy—an institution inspired by the standards of a Hall of Famer—marks a decisive step forward in Sport Science by placing Base Running Science™ at the forefront of evidence-based baseball performance.
 
 This peer-reviewed investigation, published in Applied Sciences (2026), evaluated the between-session reliability of 10 Hz GPS technology for quantifying linear (home-to-first) and curvilinear (home-to-second) base-running performance over 54.7 m in trained high school baseball athletes 
 
@@ -48,7 +48,7 @@ By formally comparing typical error against smallest worthwhile change, the pape
 3. **Establishment of Monitoring Benchmarks**:
 The identification of specific robust metrics (e.g., speed at 41.1 m in both linear and curvilinear contexts) provides the first evidence-based recommendation set tailored specifically to baseball base running.
 
-Within the broader sport science ecosystem, base running has historically been under-quantified relative to pitching biomechanics and hitting analytics. This publication elevates base running from observational coaching practice to a quantifiable performance domain with validated measurement parameters. As a result, it positions Base Running Science as a legitimate sub-discipline within applied baseball performance research.
+Within the broader sport science ecosystem, base running has historically been under-quantified relative to pitching biomechanics and hitting analytics. This publication elevates base running from observational coaching practice to a quantifiable performance domain with validated measurement parameters. As a result, it positions Base Running Science™ as a legitimate sub-discipline within applied baseball performance research.
 
 For the Carlos Beltran Baseball Academy, this work does more than contribute data—it establishes institutional credibility in peer-reviewed sport science, signaling a transition from development academy to research-driven performance leader.
 

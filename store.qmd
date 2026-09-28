@@ -1,0 +1,96 @@
+---
+title: "Store"
+page-layout: full
+format:
+  html:
+    css: assets/store/store.css
+---
+
+<div class="store-shell">
+<section class="store-hero">
+<div class="store-kicker">BASE RUNNING SCIENCE · SMALL-BATCH APPAREL</div>
+<h1>Base Running Science Store</h1>
+<p>Four research-inspired performance pieces, available individually or as thesis-topic sets. Select your size, build your cart, and submit your order directly from the Base Running Science website. Shipping is confirmed separately based on destination and final package weight.</p>
+</section>
+
+<div class="store-toolbar">
+<div><h2>Individual Pieces</h2><div style="color:#65717a;font-size:.86rem">Current launch pricing · shipping separate</div></div>
+<button class="store-cart-button" type="button" data-cart-toggle>Cart <span class="store-cart-count">0</span></button>
+</div>
+
+<div class="store-product-grid">
+<div class="store-card">
+<img src="assets/store/short-sleeve.jpg" alt="Base Running Science short sleeve performance shirt">
+<div class="store-card-body"><div class="store-card-title"><h3>Short Sleeve</h3><div class="store-price">$35</div></div><p>Performance shirt for training and everyday baseball use.</p><div class="store-controls"><select data-size aria-label="Short sleeve size"><option>Medium</option><option>Large</option><option>XL</option></select><input data-qty type="number" min="1" max="10" value="1" aria-label="Quantity"></div><button class="store-add" type="button" data-product="short-sleeve">Add to cart</button></div>
+</div>
+<div class="store-card">
+<img src="assets/store/long-sleeve.jpg" alt="Base Running Science long sleeve performance shirt">
+<div class="store-card-body"><div class="store-card-title"><h3>Long Sleeve</h3><div class="store-price">$45</div></div><p>Long-sleeve performance shirt designed around training mobility.</p><div class="store-controls"><select data-size aria-label="Long sleeve size"><option>Medium</option><option>Large</option><option>XL</option></select><input data-qty type="number" min="1" max="10" value="1" aria-label="Quantity"></div><button class="store-add" type="button" data-product="long-sleeve">Add to cart</button></div>
+</div>
+<div class="store-card">
+<img src="assets/store/hoodie.jpg" alt="Base Running Science sleeveless hoodie">
+<div class="store-card-body"><div class="store-card-title"><h3>Sleeveless Hoodie</h3><div class="store-price">$54</div></div><p>Sleeveless performance hoodie with Base Running Science branding.</p><div class="store-controls"><select data-size aria-label="Hoodie size"><option>Medium</option><option>Large</option><option>XL</option></select><input data-qty type="number" min="1" max="10" value="1" aria-label="Quantity"></div><button class="store-add" type="button" data-product="hoodie">Add to cart</button></div>
+</div>
+<div class="store-card">
+<img src="assets/store/training-shorts.jpg" alt="Base Running Science training shorts">
+<div class="store-card-body"><div class="store-card-title"><h3>Training Shorts</h3><div class="store-price">$34</div></div><p>Training shorts with integrated stretch compression liner.</p><div class="store-controls"><select data-size aria-label="Training shorts size"><option>Medium</option><option>Large</option><option>XL</option></select><input data-qty type="number" min="1" max="10" value="1" aria-label="Quantity"></div><button class="store-add" type="button" data-product="training-shorts">Add to cart</button></div>
+</div>
+</div>
+
+<section class="store-section">
+<div class="store-section-head"><div><h2>Research-Inspired Sets</h2><p>Bundle names are drawn from topics and methods developed through the Base Running Science thesis.</p></div></div>
+<div class="bundle-grid">
+<div class="bundle-card"><small>CURVILINEAR ABILITY</small><h3>Curvilinear Ability Set</h3><p>Short Sleeve + Training Shorts</p><div class="bundle-footer"><div class="bundle-price"><strong>$66</strong><span>Regular $69 · Save $3</span></div><button class="bundle-add" data-bundle="curvilinear-ability">Add set</button></div></div>
+<div class="bundle-card"><small>LINEAR–CURVILINEAR</small><h3>Linear–Curvilinear Set</h3><p>Long Sleeve + Training Shorts</p><div class="bundle-footer"><div class="bundle-price"><strong>$75</strong><span>Regular $79 · Save $4</span></div><button class="bundle-add" data-bundle="linear-curvilinear">Add set</button></div></div>
+<div class="bundle-card"><small>INSIDE–OUTSIDE MECHANICS</small><h3>Inside–Outside Mechanics Set</h3><p>Sleeveless Hoodie + Training Shorts</p><div class="bundle-footer"><div class="bundle-price"><strong>$84</strong><span>Regular $88 · Save $4</span></div><button class="bundle-add" data-bundle="inside-outside">Add set</button></div></div>
+<div class="bundle-card"><small>THE NEED FOR SPEED</small><h3>The Need for Speed Set</h3><p>Short Sleeve + Long Sleeve</p><div class="bundle-footer"><div class="bundle-price"><strong>$76</strong><span>Regular $80 · Save $4</span></div><button class="bundle-add" data-bundle="need-for-speed">Add set</button></div></div>
+<div class="bundle-card"><small>GPS DIAGNOSTICS</small><h3>GPS Diagnostics Set</h3><p>Short Sleeve + Sleeveless Hoodie</p><div class="bundle-footer"><div class="bundle-price"><strong>$85</strong><span>Regular $89 · Save $4</span></div><button class="bundle-add" data-bundle="gps-diagnostics">Add set</button></div></div>
+<div class="bundle-card"><small>IMU FOOT-POD</small><h3>IMU Foot-Pod Set</h3><p>Long Sleeve + Sleeveless Hoodie</p><div class="bundle-footer"><div class="bundle-price"><strong>$94</strong><span>Regular $99 · Save $5</span></div><button class="bundle-add" data-bundle="imu-foot-pod">Add set</button></div></div>
+<div class="bundle-card"><small>SEGMENT-SPECIFIC ANALYSIS</small><h3>Segment-Specific Analysis Set</h3><p>Short Sleeve + Long Sleeve + Training Shorts</p><div class="bundle-footer"><div class="bundle-price"><strong>$105</strong><span>Regular $114 · Save $9</span></div><button class="bundle-add" data-bundle="segment-specific">Add set</button></div></div>
+<div class="bundle-card"><small>FUNCTIONAL ASYMMETRY</small><h3>Functional Asymmetry Set</h3><p>Short Sleeve + Hoodie + Training Shorts</p><div class="bundle-footer"><div class="bundle-price"><strong>$114</strong><span>Regular $123 · Save $9</span></div><button class="bundle-add" data-bundle="functional-asymmetry">Add set</button></div></div>
+<div class="bundle-card"><small>VELOCITY–TIME PROFILE</small><h3>Velocity–Time Profile Set</h3><p>Long Sleeve + Hoodie + Training Shorts</p><div class="bundle-footer"><div class="bundle-price"><strong>$123</strong><span>Regular $133 · Save $10</span></div><button class="bundle-add" data-bundle="velocity-time">Add set</button></div></div>
+<div class="bundle-card"><small>NEW PERSPECTIVES</small><h3>New Perspectives Set</h3><p>Short Sleeve + Long Sleeve + Hoodie</p><div class="bundle-footer"><div class="bundle-price"><strong>$124</strong><span>Regular $134 · Save $10</span></div><button class="bundle-add" data-bundle="new-perspectives">Add set</button></div></div>
+<div class="bundle-card"><small>TRAINING THE CURVE</small><h3>Training the Curve Complete Set</h3><p>All four Base Running Science pieces</p><div class="bundle-footer"><div class="bundle-price"><strong>$152</strong><span>Regular $168 · Save $16</span></div><button class="bundle-add" data-bundle="training-curve">Add set</button></div></div>
+</div>
+</section>
+
+<aside id="store-cart" class="store-cart-panel" aria-label="Shopping cart">
+<div class="cart-head"><h2>Your Cart</h2><button id="cart-close" class="cart-close" type="button" aria-label="Close cart">×</button></div>
+<div id="cart-lines"></div>
+<div class="cart-summary"><div class="cart-summary-row"><span>Merchandise subtotal</span><strong id="cart-subtotal">$0.00</strong></div><div class="cart-summary-row"><span>Shipping</span><span>Confirmed separately</span></div><div class="cart-summary-row cart-total"><span>Subtotal before shipping</span><strong id="cart-total">$0.00</strong></div></div>
+<button id="checkout-open" class="checkout-open" type="button">Continue to checkout</button>
+</aside>
+
+<section id="checkout" class="checkout-shell">
+<div class="checkout-grid">
+<div>
+<h2>Checkout</h2>
+<p style="color:#65717a">Submit your order details. No card or bank information is collected on this website.</p>
+<form id="brs-order-form" class="checkout-form" name="brs-order" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/order-received.html">
+<input type="hidden" name="form-name" value="brs-order">
+<input type="hidden" id="order-id" name="order_id">
+<input type="hidden" id="order-total-field" name="merchandise_subtotal">
+<input type="hidden" id="order-cart-json" name="cart_json">
+<p style="display:none"><label>Do not fill this out: <input name="bot-field"></label></p>
+<label>First name<input required name="first_name" autocomplete="given-name"></label>
+<label>Last name<input required name="last_name" autocomplete="family-name"></label>
+<label>Email<input required type="email" name="email" autocomplete="email"></label>
+<label>Phone<input required name="phone" autocomplete="tel"></label>
+<label class="full">Shipping address<input required name="address" autocomplete="street-address"></label>
+<label>City<input required name="city" autocomplete="address-level2"></label>
+<label>State / Territory<select required name="state"><option value="Puerto Rico">Puerto Rico</option><option value="US State">U.S. State</option></select></label>
+<label>ZIP code<input required name="zip" inputmode="numeric" autocomplete="postal-code"></label>
+<label>Delivery<select required name="delivery"><option>USPS shipping — quote after order</option><option>Local pickup — by arrangement</option></select></label>
+<label class="full">Payment method<select id="payment-method" required name="payment_method"><option value="">Choose…</option><option>ATH Móvil</option><option>PayPal</option><option>Cash / Local Pickup</option></select></label>
+<label class="full">Order summary<textarea id="order-summary-text" name="order_summary" rows="6" readonly></textarea></label>
+<label class="full">Notes / sizes for bundle pieces<textarea name="customer_notes" rows="3" placeholder="For bundles, enter the size you want for each piece."></textarea></label>
+<button class="order-submit" type="submit">Submit order</button>
+<div class="safe-note">Secure-payment design: this form collects order and contact information only. ATH Móvil/PayPal payment happens through the payment provider, not by entering sensitive payment credentials here.</div>
+</form>
+</div>
+<div class="checkout-note"><h3>Order Summary</h3><p>Merchandise subtotal: <strong id="order-subtotal">$0.00</strong></p><p>Shipping: <strong>confirmed after destination/weight review</strong></p><hr><h3>Payment</h3><div id="payment-info" class="payment-info"></div><hr><p class="payment-info"><strong>Small-batch note:</strong> inventory is limited. An order submission is a reservation request until availability and payment are confirmed.</p></div>
+</div>
+</section>
+</div>
+
+<script src="assets/store/store.js"></script>

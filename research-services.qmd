@@ -1,0 +1,21 @@
+---
+title: "Research and reporting services"
+---
+
+For organizations seeking to investigate a specific question or improve an existing reporting workflow, Base Running Science™ offers two bounded technical services.
+
+## D01 Applied research feasibility
+
+A four-week engagement addressing one research question, with an evidence review, measurement plan, analysis specification, risks and estimated study budget. Athlete recruitment, an intervention study, ethics approval, data collection and publication are not included. A subsequent human-participant study requires its own scope and appropriate approvals.
+
+## S01 Reporting prototype
+
+A four-week, client-hosted spreadsheet workflow supporting one documented input format and three named staff testers. It includes an editable workbook, operating notes and two consolidated revision rounds, subject to feasibility confirmation.
+
+This service is a custom prototype. It does not include hosted software, an API, production-platform support, indefinite maintenance or device validation. Agree the required calculations, outputs and acceptance criteria before development.
+
+## Data and ownership
+
+Clients retain their source data and receive agreed rights to use paid deliverables internally. Base Running Science™ retains its reusable methods, original templates and tools unless a separate written arrangement says otherwise. Identifiable athlete data and confidential client plans are not reused for research or publicity without the necessary separate permissions.
+
+Request a tailored quote for your scope, location and schedule. [Discuss your research or reporting question](contact.qmd).

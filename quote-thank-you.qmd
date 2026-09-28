@@ -1,0 +1,11 @@
+---
+title: "Quote Request Received"
+---
+
+## Thank you
+
+Your structured quote request has been submitted.
+
+Base Running Science will review the project scope and use the information provided to determine the appropriate next step.
+
+[Return to Home](index.qmd)

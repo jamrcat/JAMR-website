@@ -1,0 +1,12 @@
+---
+title: "Order Received"
+page-layout: full
+---
+
+<div style="max-width:760px;margin:60px auto;padding:34px;border:1px solid #dce3e8;border-radius:18px;background:#fff;text-align:center">
+<div style="font-size:.75rem;font-weight:800;letter-spacing:.15em;color:#1579d3">BASE RUNNING SCIENCE</div>
+<h1 style="margin-top:10px">Order request received</h1>
+<p style="color:#65717a;line-height:1.65">Thank you. Your merchandise order has been submitted. Availability, shipping cost, and payment instructions will be confirmed before the order is finalized.</p>
+<p><strong>No card or banking information was collected on this website.</strong></p>
+<a class="btn btn-primary" href="store.html">Return to store</a>
+</div>

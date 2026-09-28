@@ -1,0 +1,242 @@
+---
+title: "Request a Quote"
+page-layout: full
+---
+
+```{=html}
+<style>
+.brs-quote-wrap{max-width:1050px;margin:20px auto 70px;padding:0 22px}
+.brs-quote-kicker{font-size:.78rem;font-weight:800;letter-spacing:.16em;color:#087aa3;margin-bottom:.45rem}
+.brs-quote-wrap h1{font-size:2.55rem;color:#123f5d;margin-bottom:.6rem}
+.brs-quote-lead{max-width:820px;color:#5f7480;line-height:1.65;margin-bottom:1.5rem}
+.brs-quote-note{background:#eef7fb;border-left:4px solid #087aa3;padding:13px 15px;border-radius:0 10px 10px 0;color:#385665;margin-bottom:26px}
+.brs-form-card{background:#fff;border:1px solid #dce6eb;border-radius:15px;padding:22px;margin:0 0 18px;box-shadow:0 7px 22px rgba(20,61,88,.055)}
+.brs-form-card h2{font-size:1.16rem;color:#123f5d;margin:0 0 17px}
+.brs-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:15px}
+.brs-quote-wrap label,.brs-quote-wrap legend{font-size:.91rem;font-weight:700;color:#2d4e61}
+.brs-quote-wrap input[type=text],
+.brs-quote-wrap input[type=email],
+.brs-quote-wrap input[type=tel],
+.brs-quote-wrap input[type=number],
+.brs-quote-wrap input[type=date],
+.brs-quote-wrap select,
+.brs-quote-wrap textarea{
+ width:100%;margin-top:6px;padding:10px 11px;border:1px solid #bacbd5;border-radius:8px;
+ background:white;color:#213e4e;font:inherit
+}
+.brs-quote-wrap textarea{resize:vertical}
+.brs-checks{border:0;padding:10px 0 0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px 16px}
+.brs-checks label{font-weight:500}
+.brs-submit{background:#08739b;color:#fff;border:0;border-radius:9px;padding:12px 20px;font-size:1rem;font-weight:800;cursor:pointer}
+.brs-submit:hover{background:#075f80}
+.brs-small{font-size:.82rem;color:#718591;line-height:1.55}
+.brs-hidden{display:none}
+.brs-consent{display:block;margin:19px 0}
+@media(max-width:720px){.brs-grid,.brs-checks{grid-template-columns:1fr}.brs-quote-wrap h1{font-size:2rem}}
+</style>
+
+<section class="brs-quote-wrap">
+  <div class="brs-quote-kicker">BASE RUNNING SCIENCE™</div>
+  <h1>Request a Quote</h1>
+  <p class="brs-quote-lead">
+    Complete the structured information below so Base Running Science can determine scope,
+    athlete/staff requirements, location, technology needs, deliverables, and pricing.
+  </p>
+
+  <div class="brs-quote-note">
+    This form is specifically for quote requests. General inquiries use the separate Contact page.
+  </div>
+
+  <form name="brs-quote-request"
+        method="POST"
+        action="/quote-thank-you.html"
+        data-netlify="true"
+        netlify-honeypot="bot-field">
+
+    <input type="hidden" name="form-name" value="brs-quote-request">
+
+    <p class="brs-hidden">
+      <label>Do not fill this out: <input name="bot-field"></label>
+    </p>
+
+    <section class="brs-form-card">
+      <h2>1. Contact & organization</h2>
+      <div class="brs-grid">
+        <label>
+          Contact name *
+          <input type="text" name="contact_name" required>
+        </label>
+
+        <label>
+          Organization / team *
+          <input type="text" name="organization" required>
+        </label>
+
+        <label>
+          Email *
+          <input type="email" name="email" required>
+        </label>
+
+        <label>
+          Phone
+          <input type="tel" name="phone">
+        </label>
+      </div>
+    </section>
+
+    <section class="brs-form-card">
+      <h2>2. Service requested</h2>
+
+      <label>
+        Primary service *
+        <select name="primary_service" required>
+          <option value="">Choose one</option>
+          <option>Training & Assessment</option>
+          <option>Consultancy / Advisory</option>
+          <option>Software / Decision Support</option>
+          <option>Continuing Education</option>
+          <option>Apparel / Collaboration</option>
+          <option>Multi-service project</option>
+        </select>
+      </label>
+
+      <fieldset class="brs-checks">
+        <legend>Components needed</legend>
+        <label><input type="checkbox" name="components[]" value="Linear sprint assessment"> Linear sprint assessment</label>
+        <label><input type="checkbox" name="components[]" value="Curvilinear/base-running assessment"> Curvilinear / base-running assessment</label>
+        <label><input type="checkbox" name="components[]" value="GPS diagnostics"> GPS diagnostics</label>
+        <label><input type="checkbox" name="components[]" value="IMU foot-pod diagnostics"> IMU foot-pod diagnostics</label>
+        <label><input type="checkbox" name="components[]" value="Individualized training prescription"> Individualized training prescription</label>
+        <label><input type="checkbox" name="components[]" value="Staff education/workshop"> Staff education / workshop</label>
+        <label><input type="checkbox" name="components[]" value="Reporting/decision support"> Reporting / decision support</label>
+        <label><input type="checkbox" name="components[]" value="Apparel/event collaboration"> Apparel / event collaboration</label>
+      </fieldset>
+    </section>
+
+    <section class="brs-form-card">
+      <h2>3. Project scope</h2>
+      <div class="brs-grid">
+        <label>
+          Number of athletes *
+          <input type="number" name="athlete_count" min="1" required>
+        </label>
+
+        <label>
+          Number of coaches / staff
+          <input type="number" name="staff_count" min="0">
+        </label>
+
+        <label>
+          City / location *
+          <input type="text" name="location" required>
+        </label>
+
+        <label>
+          Preferred date
+          <input type="date" name="preferred_date">
+        </label>
+
+        <label>
+          Expected duration
+          <select name="duration">
+            <option value="">Choose one</option>
+            <option>Half day</option>
+            <option>1 day</option>
+            <option>2 days</option>
+            <option>3+ days</option>
+            <option>Recurring / ongoing</option>
+            <option>Not sure yet</option>
+          </select>
+        </label>
+
+        <label>
+          Date flexibility
+          <select name="date_flexibility">
+            <option value="">Choose one</option>
+            <option>Fixed date</option>
+            <option>Some flexibility</option>
+            <option>Very flexible</option>
+          </select>
+        </label>
+      </div>
+    </section>
+
+    <section class="brs-form-card">
+      <h2>4. Apparel / collaboration details (if applicable)</h2>
+      <div class="brs-grid">
+        <label>
+          Estimated quantity
+          <input type="number" name="apparel_quantity" min="1">
+        </label>
+
+        <label>
+          Apparel type
+          <select name="apparel_type">
+            <option value="">Choose one</option>
+            <option>Training shorts</option>
+            <option>Short sleeve</option>
+            <option>Long sleeve</option>
+            <option>Sleeveless hoodie</option>
+            <option>Multiple items</option>
+            <option>Other</option>
+          </select>
+        </label>
+      </div>
+
+      <label>
+        Sizes, artwork, event, or collaboration details
+        <textarea name="apparel_details" rows="4"
+          placeholder="Example: 112 training shorts, athlete + coach sizing, collaboration marks, event date, etc."></textarea>
+      </label>
+    </section>
+
+    <section class="brs-form-card">
+      <h2>5. Project objective</h2>
+
+      <label>
+        What are you trying to accomplish? *
+        <textarea name="project_goal" rows="5" required
+          placeholder="Describe the performance, assessment, education, advisory, software, or event objective."></textarea>
+      </label>
+
+      <label>
+        Existing technology / resources
+        <textarea name="existing_resources" rows="4"
+          placeholder="GPS, timing gates, IMU foot pods, field access, staff availability, etc."></textarea>
+      </label>
+
+      <label>
+        Additional requirements
+        <textarea name="additional_requirements" rows="4"></textarea>
+      </label>
+    </section>
+
+    <section class="brs-form-card">
+      <h2>6. Budget context (optional)</h2>
+      <label>
+        Approximate project budget
+        <select name="budget_range">
+          <option value="">Not established / prefer not to say</option>
+          <option>Under $1,000</option>
+          <option>$1,000–$2,499</option>
+          <option>$2,500–$4,999</option>
+          <option>$5,000–$9,999</option>
+          <option>$10,000+</option>
+        </select>
+      </label>
+    </section>
+
+    <label class="brs-consent">
+      <input type="checkbox" name="accuracy_confirmation" required>
+      I confirm that this information is accurate enough for Base Running Science to prepare an initial quote.
+    </label>
+
+    <button class="brs-submit" type="submit">Submit Quote Request</button>
+
+    <p class="brs-small">
+      Submission does not create a contract or booking. Final scope, availability, travel,
+      deliverables, payment terms, and pricing are confirmed separately.
+    </p>
+  </form>
+</section>
+```

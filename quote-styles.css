@@ -1,0 +1,158 @@
+/* =========================================================
+   BRS CONTACT + STRUCTURED QUOTE REQUEST
+   ========================================================= */
+.brs-contact-shell,
+.brs-quote-shell,
+.brs-thankyou-shell {
+  width: min(1080px, calc(100% - 36px));
+  margin: 48px auto 72px;
+}
+.brs-contact-kicker {
+  color: #0b7ca8;
+  font-size: .78rem;
+  font-weight: 800;
+  letter-spacing: .18em;
+  margin-bottom: .6rem;
+}
+.brs-contact-shell h1,
+.brs-quote-shell h1,
+.brs-thankyou-shell h1 {
+  color: #143d5b;
+  font-weight: 800;
+  margin-bottom: 1rem;
+}
+.brs-contact-lead,
+.brs-quote-lead {
+  color: #60727f;
+  line-height: 1.7;
+  max-width: 820px;
+}
+.brs-email-card {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 18px 22px;
+  margin: 14px 0;
+  background: #f4f9fc;
+  border: 1px solid #cfe0ea;
+  border-radius: 14px;
+  text-decoration: none;
+}
+.brs-email-card:hover { border-color: #1684ad; }
+.brs-email-label {
+  color: #6a7e8b;
+  font-size: .72rem;
+  font-weight: 800;
+  letter-spacing: .12em;
+}
+.brs-email-card strong { color: #143d5b; }
+.brs-contact-separator {
+  width: 100%;
+  height: 1px;
+  background: #e0e8ed;
+  margin: 34px 0;
+}
+.brs-quote-btn,
+.brs-submit-quote {
+  display: inline-block;
+  background: #0e7098;
+  color: white !important;
+  border: 0;
+  border-radius: 10px;
+  padding: 12px 20px;
+  font-weight: 800;
+  text-decoration: none;
+  cursor: pointer;
+}
+.brs-quote-btn:hover,
+.brs-submit-quote:hover { background: #0a5d80; }
+.brs-quote-note {
+  background: #eef7fb;
+  border-left: 4px solid #0e7098;
+  padding: 14px 16px;
+  margin: 24px 0 30px;
+  color: #375567;
+  border-radius: 0 10px 10px 0;
+}
+.brs-quote-form {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+.brs-form-section {
+  background: white;
+  border: 1px solid #dce6ec;
+  border-radius: 16px;
+  padding: 22px;
+  box-shadow: 0 8px 26px rgba(18,61,89,.06);
+}
+.brs-form-section h2 {
+  color: #143d5b;
+  font-size: 1.15rem;
+  margin: 0 0 18px;
+}
+.brs-form-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0,1fr));
+  gap: 16px;
+}
+.brs-quote-form label,
+.brs-checkset legend {
+  color: #2d4c60;
+  font-weight: 700;
+  font-size: .92rem;
+}
+.brs-quote-form input[type="text"],
+.brs-quote-form input[type="email"],
+.brs-quote-form input[type="tel"],
+.brs-quote-form input[type="number"],
+.brs-quote-form input[type="date"],
+.brs-quote-form select,
+.brs-quote-form textarea {
+  width: 100%;
+  margin-top: 7px;
+  border: 1px solid #bdccd5;
+  border-radius: 9px;
+  padding: 10px 11px;
+  font: inherit;
+  background: #fff;
+  color: #203b4b;
+}
+.brs-quote-form textarea { resize: vertical; }
+.brs-checkset {
+  border: 0;
+  padding: 15px 0 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0,1fr));
+  gap: 10px 18px;
+}
+.brs-checkset label,
+.brs-consent {
+  font-weight: 500;
+}
+.brs-checkset input,
+.brs-consent input {
+  margin-right: 7px;
+}
+.brs-optional {
+  font-size: .78rem;
+  font-weight: 500;
+  color: #788d99;
+}
+.brs-submit-quote {
+  align-self: flex-start;
+  font-size: 1rem;
+}
+.brs-form-footnote {
+  color: #718490;
+  font-size: .83rem;
+  line-height: 1.55;
+}
+.hidden { display: none !important; }
+
+@media (max-width: 720px) {
+  .brs-form-grid,
+  .brs-checkset {
+    grid-template-columns: 1fr;
+  }
+}

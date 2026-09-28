@@ -15,7 +15,7 @@ output-file: Asymmetry.html
 
 ## Context
 
-A new peer-reviewed publication further strengthens the scientific basis of Base Running Science by demonstrating that inside–outside foot mechanics differ meaningfully during curvilinear sprinting in baseball. A new peer-reviewed publication further strengthens the scientific basis of Base Running Science by demonstrating that inside–outside foot mechanics differ meaningfully during curvilinear sprinting in baseball.
+A new peer-reviewed publication further strengthens the scientific basis of Base Running Science™ by demonstrating that inside–outside foot mechanics differ meaningfully during curvilinear sprinting in baseball. A new peer-reviewed publication further strengthens the scientific basis of Base Running Science™ by demonstrating that inside–outside foot mechanics differ meaningfully during curvilinear sprinting in baseball.
 
 Published in Asymmetry (2026), this study evaluated trained high school baseball players and quantified ground contact time (GCT), stride length (SL), push-off, and impact during both linear and curvilinear sprinting.
 

@@ -5,63 +5,66 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Base Running Science</title>
+<title>Base Running Science™</title>
 <link>https://jamrbaserunningscience.netlify.app/articles.html</link>
 <atom:link href="https://jamrbaserunningscience.netlify.app/articles.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.353</generator>
-<lastBuildDate>Mon, 20 Jul 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 04:00:00 GMT</lastBuildDate>
 <item>
-  <title>Improving Base Running in Baseball A Linear-Curvilinear Perspective</title>
+  <title>Improving Base Running in Baseball: A Linear–Curvilinear Perspective</title>
+  <dc:creator>José Antonio Martínez-Rodríguez</dc:creator>
   <link>https://jamrbaserunningscience.netlify.app/articles/article_4/Chapter4.html</link>
   <description><![CDATA[ 
 
 
 
-<section id="context" class="level2">
-<h2 class="anchored" data-anchor-id="context">Context</h2>
-<p>I’m pleased to share one of the most informative articles developed from my thesis:</p>
-<p>“Improving Base Running in Baseball: A Linear–Curvilinear Perspective”</p>
-<p>Base running makes a meaningful contribution to offensive performance. Previous research estimates that player speed can contribute approximately 25 runs during an MLB season, while concentrating highly skilled base runners within a lineup may increase seasonal production by as many as 70 runs.</p>
-<p>Despite its potential value, base running is still frequently evaluated and trained using straight-line sprint measures.</p>
-<p>Our review suggests that this may be incomplete.</p>
-<p>Linear and curvilinear sprinting appear to be related but distinct motor qualities. MLB players who steal the most bases demonstrate high linear speeds and accelerations. However, higher linear speed and acceleration have not been similarly observed among players running two consecutive bases.</p>
-<p>This raises an important practical question:</p>
-<p>Does improving straight-line speed automatically produce a better base runner?</p>
-<p>The current evidence suggests that it may not.</p>
-<p>Curvilinear sprinting requires an inward body lean that changes how force is distributed between the legs. Rather than performing identical functions, the inside and outside limbs assume different mechanical roles.</p>
-<p>The inside leg acts primarily as a shock absorber, decelerator, and directional controller. It manages mediolateral forces and helps redirect the athlete’s center of mass along the curved path.</p>
-<p>The outside leg functions more as a propulsion engine. It produces greater forward force and uses a stiffer foot position to drive the athlete through the curve.</p>
-<p>These mechanical differences extend from the hip to the foot–ankle complex. The outside-leg gluteus medius and biceps femoris demonstrate greater activation, supporting stability and forward propulsion. The inside-leg adductors and semitendinosus contribute to braking and directional control. The gastrocnemius medialis is active in both legs: it assists force absorption and momentum redirection on the inside leg, while supporting foot–ankle stability and efficient force transfer on the outside leg.</p>
-<p>The foot also behaves differently on each side. The inside foot adopts a more mobile and absorptive position, while the outside foot becomes relatively stiffer to support an effective push-off.</p>
-<p>What does the training evidence show?</p>
-<p>The review identified six curvilinear sprint-training studies:</p>
-<p>• Curvilinear sprint training produced improvements of approximately 3.36%–4.16% in one intervention, while the linear training group improved by only 0.02%–0.13%.</p>
-<p>• Light and heavy sled training produced curved-sprint improvements of approximately 2.54%–5.90%. No significant difference was found between loading conditions.</p>
-<p>• In female softball players, 20 weeks of powerlifting improved curvilinear home-to-second performance by 2.88%, compared with a 0.32% improvement in linear home-to-first performance.</p>
-<p>These results are promising, but the evidence base remains limited. The six studies included only 127 athletes, approximately 92.1% of whom were male. Five studies involved soccer players, and only one involved softball players. Differences in surfaces, running directions, distances, curve radii, starting positions, and testing procedures also make direct comparisons difficult.</p>
-<p>Most importantly, baseball-specific curvilinear training research is still largely absent.</p>
-<p>Based on the current evidence, strength and conditioning programs should consider addressing the following areas:</p>
-<p>Inside-leg capacity Develop eccentric strength, braking ability, and mediolateral stability through exercises such as Nordic hamstring exercises, Romanian deadlifts, Copenhagen adduction exercises, and inward-lean unilateral squats.</p>
-<p>Outside-leg capacity Develop forward propulsion and unilateral power through outside-leg inward-lean squats, triple-extension exercises, and appropriately progressed jumping movements.</p>
-<p>Foot–ankle function Train both the absorptive function required by the inside foot and the stiffness and propulsive strength required by the outside foot. Movement-specific progression Progress athletes from controlled full, half, and quarter-circle runs to sharper 90-degree paths and, ultimately, self-selected base-running arcs performed under game-relevant conditions.</p>
-<p>Wearable resistance Light external loads—typically 1%–5% of body mass or approximately 200–600 grams—may provide a movement-specific training stimulus without preventing athletes from following a curved path. However, wearable resistance should be progressive, supervised, and treated as an adjunct rather than a replacement for foundational sprint, strength, and coordination training. Portable diagnostic technology Timing gates provide total sprint time but reveal little about what happens during individual steps. High-sampling foot-pod inertial sensors may help practitioners examine center-of-mass motion, step-by-step performance, speed loss, and emerging asymmetries throughout the curve.</p>
-<p>The practical message from this article is straightforward:</p>
-<p>Base running is not simply linear sprinting around a baseball diamond. It is a complex sequence of acceleration, inward lean, force absorption, redirection, propulsion, and re-acceleration.</p>
-<p>Therefore, practitioners should assess and train linear and curvilinear sprinting as related—but distinct—performance qualities.</p>
-<p>Advancing this area will require baseball-specific intervention studies comparing linear sprinting, curvilinear sprinting, resisted sprinting, strength and power development, and wearable-resistance training across different ages, positions, competitive levels, and sexes.</p>
-<p>Better measurement can lead to better exercise prescription—and, ultimately, safer and more effective base-running development.</p>
-<hr>
-<p><img src="https://jamrbaserunningscience.netlify.app/articles/articles/Chapter4.png" class="img-fluid"></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://jamrbaserunningscience.netlify.app/articles/article_4/Chapter4.png" class="img-fluid figure-img" alt="First page of the paper, showing its title, authors, and abstract"></p>
+<figcaption class="figure-caption">First page of Improving Base Running in Baseball: A Linear–Curvilinear Perspective</figcaption>
+</figure>
+</div>
+<p>Before we could ask how to improve base running, we first had to understand what makes running multiple bases different from sprinting in a straight line.</p>
+<p>That is why I consider our new paper, <em>Improving Base Running in Baseball: A Linear–Curvilinear Perspective</em>, one of the foundational pieces of my PhD.</p>
+<p>The challenge was that the baseball-specific evidence-based literature was extremely limited.</p>
+<p>Much of what we currently know about curvilinear sprint mechanics comes from track and soccer. Those studies provide valuable biomechanical principles, but baseball presents different constraints: athletes select their own running paths, negotiate around the base, and continuously transition between acceleration, redirection, and reacceleration.</p>
+<p>So this paper brought together the available literature to examine three broad areas:</p>
+<ul>
+<li><strong>Mechanics</strong> — how curvilinear running differs from linear sprinting, including potential inside- and outside-limb roles.</li>
+<li><strong>Diagnostics</strong> — how field-based technology could help us move beyond total sprint time.</li>
+<li><strong>Training</strong> — how gym-based physical development and baseball-specific field training might be integrated to improve the ability to negotiate the curve.</li>
+</ul>
+<p>One of the clearest findings from the review was not an answer — it was a research gap.</p>
+<p>Existing studies were characterized by small samples, methodological differences, and curvilinear non-baseball-specific tasks. Most curvilinear training evidence came from young male soccer players rather than baseball players.</p>
+<p>That matters because we should be careful not to confuse biomechanical plausibility with baseball-specific evidence.</p>
+<p>The literature suggests that curved running introduces asymmetric demands between the inside and outside limbs and changes force application, foot position, and muscular requirements. But these ideas still require direct testing during actual baseball base running.</p>
+<p>For me, this paper was the first floor of the building.</p>
+<p>It helped establish:</p>
+<ul>
+<li>What we knew.</li>
+<li>What we were borrowing from other sports.</li>
+<li>What we still needed to measure.</li>
+<li>And what needed to be tested experimentally.</li>
+</ul>
+<p>That framework helped shape much of the research that followed in the thesis.</p>
+<p><strong>Understand the task → assess the task → train the task.</strong></p>
+<p><strong>Train the base runner — not just the sprinter.</strong></p>
+<p><strong>Where it’s published:</strong></p>
+<p><strong>Paper authors:</strong> Jose A. Martinez-Rodriguez, Chloe Ryan, Ryan L. Crotin, Jonathon Neville, and John Cronin.</p>
+<p><a href="https://doi.org/10.1519/SSC.0000000000000996" target="_blank">Read the full article</a></p>
+<p><a href="../../articles.html">Browse all research</a> · <a href="../../framework.html">Explore the Base Running Science™ framework</a></p>
 
 
-</section>
 
  ]]></description>
-  <category>Change of Direction; Resistance Training; Base Running Assessment; Running Biomechanics; Wearable Resistance Training</category>
+  <category>Base running</category>
+  <category>Curvilinear running</category>
+  <category>Research</category>
+  <category>Training</category>
   <guid>https://jamrbaserunningscience.netlify.app/articles/article_4/Chapter4.html</guid>
-  <pubDate>Mon, 20 Jul 2026 04:00:00 GMT</pubDate>
-  <media:content url="https://jamrbaserunningscience.netlify.app/articles/article_4/Chapter4.png" medium="image" type="image/png" height="47" width="144"/>
+  <pubDate>Mon, 14 Sep 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://jamrbaserunningscience.netlify.app/articles/article_4/Chapter4.png" medium="image" type="image/png" height="193" width="144"/>
 </item>
 <item>
   <title>New Perspectives on Analyzing and Interpreting Base Running Efficiency: An IMU Foot Pod Methodological Case Approach</title>
@@ -120,7 +123,7 @@
   <media:content url="https://jamrbaserunningscience.netlify.app/articles/article_6/GPS_approach.png" medium="image" type="image/png" height="145" width="144"/>
 </item>
 <item>
-  <title>Between-Session Reliability of GPS Technology for Quantifying Linear and Curvilinear Base-Running Performance</title>
+  <title>Improving Base Running Diagnostics with Foot Pod Technology: Intersession Reliability of Linear and Curvilinear Running Performance</title>
   <link>https://jamrbaserunningscience.netlify.app/articles/article_7/IMU_reliability.html</link>
   <description><![CDATA[ 
 
@@ -192,7 +195,7 @@
 
 <section id="context" class="level2">
 <h2 class="anchored" data-anchor-id="context">Context</h2>
-<p>The first peer-reviewed scientific publication emerging from the Carlos Beltran Baseball Academy—an institution inspired by the standards of a Hall of Famer—marks a decisive step forward in Sport Science by placing Base Running Science at the forefront of evidence-based baseball performance.</p>
+<p>The first peer-reviewed scientific publication emerging from the Carlos Beltran Baseball Academy—an institution inspired by the standards of a Hall of Famer—marks a decisive step forward in Sport Science by placing Base Running Science™ at the forefront of evidence-based baseball performance.</p>
 <p>This peer-reviewed investigation, published in Applied Sciences (2026), evaluated the between-session reliability of 10 Hz GPS technology for quantifying linear (home-to-first) and curvilinear (home-to-second) base-running performance over 54.7 m in trained high school baseball athletes</p>
 <p>The study applied a repeated-measures design across three sessions and examined systematic change, absolute reliability (coefficient of variation, CV), relative reliability (intraclass correlation coefficient, ICC), and practical sensitivity via smallest worthwhile change (SWC).</p>
 <p>Key findings of direct relevance to baseball performance departments include:</p>
@@ -213,7 +216,7 @@
 <li><p><strong>Integration of Reliability with Practical Sensitivity (SWC vs.&nbsp;TE)</strong>: By formally comparing typical error against smallest worthwhile change, the paper moves the field from descriptive measurement toward decision-making science—critical for MLB high-performance departments.</p></li>
 <li><p><strong>Establishment of Monitoring Benchmarks</strong>: The identification of specific robust metrics (e.g., speed at 41.1 m in both linear and curvilinear contexts) provides the first evidence-based recommendation set tailored specifically to baseball base running.</p></li>
 </ol>
-<p>Within the broader sport science ecosystem, base running has historically been under-quantified relative to pitching biomechanics and hitting analytics. This publication elevates base running from observational coaching practice to a quantifiable performance domain with validated measurement parameters. As a result, it positions Base Running Science as a legitimate sub-discipline within applied baseball performance research.</p>
+<p>Within the broader sport science ecosystem, base running has historically been under-quantified relative to pitching biomechanics and hitting analytics. This publication elevates base running from observational coaching practice to a quantifiable performance domain with validated measurement parameters. As a result, it positions Base Running Science™ as a legitimate sub-discipline within applied baseball performance research.</p>
 <p>For the Carlos Beltran Baseball Academy, this work does more than contribute data—it establishes institutional credibility in peer-reviewed sport science, signaling a transition from development academy to research-driven performance leader.</p>
 <hr>
 <p><strong>Where it’s published:</strong></p>
@@ -239,7 +242,7 @@
 
 <section id="context" class="level2">
 <h2 class="anchored" data-anchor-id="context">Context</h2>
-<p>A new peer-reviewed publication further strengthens the scientific basis of Base Running Science by demonstrating that inside–outside foot mechanics differ meaningfully during curvilinear sprinting in baseball. A new peer-reviewed publication further strengthens the scientific basis of Base Running Science by demonstrating that inside–outside foot mechanics differ meaningfully during curvilinear sprinting in baseball.</p>
+<p>A new peer-reviewed publication further strengthens the scientific basis of Base Running Science™ by demonstrating that inside–outside foot mechanics differ meaningfully during curvilinear sprinting in baseball. A new peer-reviewed publication further strengthens the scientific basis of Base Running Science™ by demonstrating that inside–outside foot mechanics differ meaningfully during curvilinear sprinting in baseball.</p>
 <p>Published in Asymmetry (2026), this study evaluated trained high school baseball players and quantified ground contact time (GCT), stride length (SL), push-off, and impact during both linear and curvilinear sprinting.</p>
 <p>The findings were clear:</p>
 <ol type="1">

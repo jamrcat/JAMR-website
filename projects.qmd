@@ -1,30 +1,18 @@
 ---
-title: "Projects"
+title: "Projects and applied services"
 ---
 
-Having completed my PhD research on improving base running efficiency in baseball, I am now embarking on the next phase of this work through **Base Running Science**—an independent, evidence-informed project focused on translating research into applied solutions for baseball performance.
+Base Running Science™’s applied work is now organized into dedicated service pages. Explore the engagement that matches your question:
 
-My doctoral research provided the scientific foundation for investigating how athletes maintain speed while negotiating the curvilinear demands of running multiple bases. This work integrated time- and speed-based measures, spatiotemporal data, GPS tracking (VX Sport), foot-pod IMU technology (Plantiga), force-related assessments, and the application of wearable resistance training within baseball-specific contexts.
+- [Teams and academies](teams.qmd): assessment, audits, validation and monitoring.
+- [Individual players](players.qmd): testing, training and residential support.
+- [Workshops](workshops.qmd): one-hour introductions and two-hour applied sessions.
+- [Research and reporting](research-services.qmd): feasibility and custom reporting prototypes.
 
-**Base Running Science builds on this foundation by moving from a doctoral research project toward a long-term applied framework for baseball.** The project is intended to support players, practitioners, academies, and organizations accross four interconnected areas: consultancy and advisory services, baseball-specific diagnostics, performance software and decision-support tools, and informed exercise prescription.
+[Explore the full service overview](services.qmd)
 
-**Consultancy & Advisory**
+## Research foundation
 
-Interpretation of performance data, program development, recommendations, collaboration with organizations, and specialist guidance related to base running.
+The continuing scientific questions behind this work include interpretation of running segments, comparable measurement, linear and curvilinear development, and the evaluation of practical applications. Proposed research is distinct from a booked service and may require separate study approvals.
 
-**Software**
-
-Tools for organizing, visualizing, interpreting, and longitudinally monitoring base-running performance data and supporting practitioner decision-making.
-
-**Testing**
-
-Baseball-specific evaluation of multiple-base running using time, velocity, spatiotemporal, biomechanical, and other relevant performance measures.
-
-**Training**
-
-Evidence-informed exercise prescription and baseball-specific interventions targeting identified performance limiters and the demands of curvilinear base running.
-
-The long-term objective is to develop systematic approaches for identifying performance limiters, profiling base running performance, establishing meaningful benchmarks, and informing individualized training interventions. Through longitudinal data collection, applied diagnostics, and collaboration with baseball environments, Base Running Science aims to help shift base running development from predominantly intuition-based decision-making toward structured, measurable, and evidence-informed performance strategies.
-
-This represents the continuation of the research rather than its conclusion: **from studying base running efficiency to developing practical systems for assessing, interpreting, and improving it in applied baseball environments.**
-
+[Read the research](articles.qmd) · [Understand the framework](framework.qmd)

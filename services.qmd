@@ -1,0 +1,30 @@
+---
+title: "Services"
+---
+
+Base Running Science™ provides defined engagements for organizations, individual players and practitioners. Each quote identifies the participants, deliverables, delivery method, schedule and fee before work starts.
+
+## Choose a service area
+
+| Service area | Typical engagement | Details |
+|---|---|---|
+| Teams and academies | Assessment pilots, audits, validation and monthly monitoring | [Team services](teams.qmd) |
+| Individual players | Assessment, retesting, private coaching and local development | [Player services](players.qmd) |
+| Visiting and residential support | Five-day intensive or eight-week engagement at your location | [Travel and residential](players.qmd#visiting-and-residential-support) |
+| Workshops | One-hour introductions and two-hour applied sessions for coaches and staff | [Workshop packages](workshops.qmd) |
+| Research and reporting | Research feasibility and custom reporting prototypes | [Research support](research-services.qmd) |
+
+## How an engagement works
+
+1. **Discuss the need.** Tell us about your players, staff, setting and development question.
+2. **Agree the scope.** We specify data requirements, activities, outputs, timing and fees in a written quote and service agreement.
+3. **Deliver the work.** Depending on the service, Base Running Science™ analyzes staff-collected data, works directly with a player, delivers agreed training or develops a defined technical deliverable.
+4. **Review and decide.** Interpret the findings, identify the next steps and agree whether reassessment or further support is useful.
+
+## Fees and availability
+
+Every engagement receives a tailored quote based on scope, participant numbers, delivery format, location and time commitment. Your written quote confirms fees, availability, currency, applicable taxes and any agreed changes. Travel, accommodation, field hire and additional technology are separate unless expressly included.
+
+Enquiries are welcome internationally. Player coaching is delivered in person; workshops and agreed analysis services may be delivered remotely. Onsite delivery depends on scheduling, suitable facilities and practical travel arrangements. A residential engagement reserves a defined work commitment; it is priced separately from local coaching.
+
+[Request a quote](contact.qmd)

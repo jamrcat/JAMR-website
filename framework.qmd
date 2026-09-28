@@ -1,0 +1,33 @@
+---
+title: "Our framework"
+---
+
+Base Running Science™ connects linear and curvilinear running assessment with practical development and repeated evaluation. José Antonio Martínez-Rodríguez’s doctoral research provides the scientific foundation for investigating how players enter, negotiate and exit the curve when running multiple bases.
+
+## Assess
+
+Identify the performance question and collect suitable baseline measurements. Timing and video can provide a starting point; GPS or IMU data are included only where the service, export format and interpretation are appropriate.
+
+## Build
+
+Use the findings to identify physical and technical development priorities. Interpret a player’s measurements in context rather than assuming a single metric explains the whole performance.
+
+## Integrate
+
+Connect those priorities with baseball-specific sprinting and the athlete’s existing coaching and performance programme.
+
+## Overload
+
+Progress the task when a greater stimulus is appropriate, considering readiness, recovery and the demands of the playing schedule.
+
+## Reassess
+
+Repeat comparable measurements to evaluate change and guide the next stage of development. Consider measurement reliability, protocol changes and uncertainty before concluding that an intervention worked.
+
+## Evidence and its limits
+
+The research includes studies of linear and curvilinear characteristics, measurement reliability and methodological approaches to interpreting running segments. Reliability, association and an illustrative case do not by themselves demonstrate that every training application improves game performance.
+
+Published research is available through the [research collection](articles.qmd). Engagements apply that foundation to a defined client question, with limitations explained in the reporting. No programme guarantees a particular performance gain or selection outcome.
+
+[Explore services](services.qmd) · [Discuss an application](contact.qmd)

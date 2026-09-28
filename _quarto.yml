@@ -2,14 +2,13 @@ project:
   type: website
   output-dir: _site
   resources:
-    - assets/**
+    - assets/store/**
+    - assets/merch/**
 
 website:
-  site-url: https://jamrbaserunningscience.netlify.app 
-  title: "Base Running Science"
-  favicon: assets/base-running-science-logo.png
+  site-url: https://jamrbaserunningscience.netlify.app
+  title: "Base Running Science™"
   navbar:
-    logo: assets/base-running-science-logo.png
     left:
       - href: index.qmd
         text: Home
@@ -19,16 +18,19 @@ website:
         text: Articles
       - href: notes.qmd
         text: Notes
-      - href: updates.qmd
-        text: Updates
+      - href: merch.qmd
+        text: Merch
       - href: contact.qmd
         text: Contact
-      - href: merch.qmd
-        text: Merch Concept
+      - href: quote.qmd
+        text: Request a Quote
   page-footer:
+    left:
+      - text: "contact@jamrbaserunningscience.com"
+        href: mailto:info@jamrbaserunningscience.com
     center:
       - icon: instagram
-        href: https://instagram.com/jamrcat/
+        href: https://instagram.com/baserunningscience/
       - icon: linkedin
         href: https://linkedin.com/in/jamr2021/
 
@@ -38,5 +40,3 @@ format:
     toc: false
     page-layout: full
     css: styles.css
-    include-after-body: brand.html
- 

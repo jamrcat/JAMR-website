@@ -1,129 +1,80 @@
 ---
 title: ""
-page-layout: full
 ---
 
 <div class="hero-section">
+<div class="hero-visuals"><img src="assets/base-running-science-logo.png" class="brand-hero-logo" alt="Base Running Science™ logo"><img src="assets/me.jpg" class="hero-portrait" alt="José Antonio Martínez-Rodríguez, founder of Base Running Science™"></div>
+<div class="hero-kicker">RESEARCH INFORMING BASEBALL DEVELOPMENT</div>
 
-<div class="hero-visuals">
-<img src="assets/base-running-science-logo.png" class="brand-hero-logo" alt="Base Running Science logo">
-<img src="assets/me.jpg" class="hero-portrait" alt="José Antonio Martínez-Rodríguez">
+# Base Running Science™
+
+Scientific testing, base running training and individual player development for teams, academies and athletes.
+
+Assess how a player accelerates, negotiates the curve and maintains speed between bases. Use those findings to guide individualized physical preparation and on-field base running training, then reassess to evaluate progress and adjust the programme.
+
+<div class="brs-actions"><a class="btn-primary" href="services.html">Explore services</a><a class="brs-secondary" href="contact.html">Request a quote</a></div>
 </div>
 
-<div class="hero-kicker">SPEED MATTERS MOST</div>
+## Specialist support for your base running programme
 
-# José Antonio Martínez-Rodríguez
+Base Running Science™ is an independent business built around José Antonio Martínez-Rodríguez’s base running research. We work alongside base running directors, coaches, performance staff and analysts to connect measurement with practical player development.
 
-**Base Running Science™**
+Your staff retain responsibility for organizational strategy and day-to-day coaching. Base Running Science™ contributes specialist testing, interpretation, training, development support and evaluation. We serve multiple organizations and individual players; client data and confidential plans remain separate.
 
-Doctoral researcher (Sport & Exercise Science) |
-Auckland University of Technology (AUT) |
-Sports Performance Research Institute New Zealand (SPRINZ) |
-Founder and owner of Base Running Science™
+## Find the support you need
 
-</div>
+::: {.brs-service-grid}
+::: {.brs-service-card}
+### Teams and academies
+Assessment pilots, diagnostic audits, validation projects and ongoing scientific support.
 
-## Featured article
+[Explore team services](teams.qmd)
+:::
+::: {.brs-service-card}
+### Individual players
+Local testing and coaching, retests and visiting or residential support.
+
+[Explore player services](players.qmd)
+:::
+::: {.brs-service-card}
+### Workshops
+One-hour introductions and two-hour applied workshops for coaches and staff.
+
+[Explore workshop packages](workshops.qmd)
+:::
+::: {.brs-service-card}
+### Research and reporting
+Research feasibility and custom spreadsheet reporting prototypes for a defined question or workflow.
+
+[Explore research support](research-services.qmd)
+:::
+:::
+
+## A framework that connects testing and development
+
+**Assess → Build → Integrate → Overload → Reassess**
+
+Identify a development priority, build the relevant qualities, integrate them into baseball-specific running, progress the task when appropriate, and reassess to evaluate change and guide the next stage.
+
+[Understand the framework](framework.qmd)
+
+## Founded on base running research
+
+José Antonio Martínez-Rodríguez’s doctoral research at Auckland University of Technology examines linear and curvilinear running, segment-specific interpretation and the practical use of performance measurements. The research provides a foundation for the services; each application still requires attention to the player, protocol and measurement limitations.
+
+[Meet the founder](about.qmd) · [Explore research and articles](articles.qmd)
 
 <div class="feature-card">
-
-<img src="articles/Chapter4.png" alt="Featured article image" class="feature-image">
-
+<img src="articles/article_4/Chapter4.png" alt="First page of Improving Base Running in Baseball A Linear–Curvilinear Perspective" class="feature-image" loading="lazy">
 <div class="feature-body">
-
-<div class="feature-meta">June 20, 2026 · Base Running</div>
-
-### Improving Base Running in Baseball: A Linear-Curvilinear Perspective
-
-This article explored the following; 1) review the literature identifying the technical demands associated with curvilinear running and how these might differ from linear running; 2) identify in-field technology that may provide greater diagnostic insight into determinants of efficacy for various training methods to optimize base running ability; and, 3) detail training methods currently used for curvilinear sprint training and suggest more effective options. 
-
-<a class="btn-primary" href="articles/Chapter4.html">Read the article →</a>
+<h3>Improving Base Running in Baseball: A Linear–Curvilinear Perspective</h3>
+<p>Why understanding the differences between straight-line sprinting and running multiple bases became a foundation of my PhD—and what still needs to be tested.</p>
+<a class="btn-primary" href="articles/article_4/Chapter4.html">Read the article</a>
 </div>
 </div>
 
-## About
+## Start with your question
 
-I am a doctoral researcher in Sport and Exercise Science at Auckland University of Technology (AUT) and a member of the Sports Performance Research Institute New Zealand (SPRINZ). My work focuses on advancing base running performance in baseball through data-driven, sport-specific assessment and training—particularly the often-overlooked demands of **curvilinear sprinting** in game contexts.
+Tell us whether you represent a team or academy, are seeking individual player support, or want a workshop or research assistance. Include your location, preferred dates and the question you want to address.
 
-## What is Base Running Science™?
-
-**Base Running Science™** is an independent, evidence-informed framework focused on how baseball players maintain speed while negotiating the curvilinear demands of running multiple bases. It translates base running science into practical solutions through consultancy and advisory services, baseball-specific diagnostics, performance software and decision-support tools, and informed exercise prescription.
-
-**Understanding** → the science of linear vs. curvilinear movement and how athletes enter, negotiate, and exit the curve. Base-running-specific interpretative framework.
-
-**Assessing** → diagnostics using GPS-time, -velocity, and IMU foot pod variables for segmental analysis. 
-
-**Improving** → translating data into information to create knowledge that improves coaching decisions and exercise prescription. 
-
-## Why does Base Running Science™ matters?
-
-Base running can influence critical moments in baseball, yet it remains comparatively underexplored and underintegrated within player development. While linear sprint speed is important, running multiple bases introduces curvilinear movement demands that require athletes to accelerate, negotiate the curve, manage changes in direction, and maintain velocity throughout the running path. Base Running Science™ addresses this gap by examining linear and curvilinear sprint performance, force production, and the movement characteristics that may influence efficient multiple-base running. By transforming data into meaningful information, information into actionable knowledge, and knowledge into evidence-informed practice, Base Running Science™ aims to advance how base running is assessed, trained, and integrated into long-term player development.
-
-## Base Running Science™ framework
-
-**ASSESS → BUILD → INTEGRATE → OVERLOAD → REASSESS**
-
-**Assess** where performance is being limited.
-
-**Build** the physical and technical qualities required to solve that limitation.
-
-**Integrate** those qualities into baseball-specific sprinting.
-
-**Overload** the task when a greater stimulus is required.
-
-**Reassess** to explore.
-
-## Research highlights
-
-<div class="cards">
-
-<div class="card">
-<div class="card-title">Base Running Efficiency: A GPS Approach</div>
-<div class="card-text">Methodological framework for using GPS technology to enhance the analysis and interpretation of base running performance through segment-specific velocity and time diagnostics.</div>
-</div>
-
-<div class="card">
-<div class="card-title">Base Running Efficiency: A Foot Pod Approach</div>
-<div class="card-text">To illustrate how IMU-derived spatiotemporal variables may be interpreted across successive base running segments in applied settings.</div>
-</div>
-
-<div class="card">
-<div class="card-title">Linear-Curvilinear Literature</div>
-<div class="card-text">Evaluate understanding of foot-ankle complex mechanics, muscular output by the lower limbs, and distinct functions of the inside and outside leg providing valuable frameworks for analyzing curvilinear running mechanics.</div>
-</div>
-
-</div>
-
-
-## Base Running Science™ Merch Concept
-
-<div class="merch-home-teaser">
-<div>
-<div class="merch-home-kicker">RESEARCH-INSPIRED APPAREL</div>
-<h3>Base Running Science™, translated into a merch catalog.</h3>
-<p>Explore individual pieces and thesis-topic sets such as Curvilinear Ability, The Need for Speed, GPS Diagnostics, Functional Asymmetry, and Training the Curve.</p>
-<a class="btn-primary" href="merch.html">View the merch concept →</a>
-</div>
-</div>
-
-## Selected writing
-
-- [Browse all articles →](articles.qmd)
-- [Read blogs →](notes.qmd)
-
-<details>
-<summary><strong>Background (extended bio)</strong></summary>
-
-I am a doctoral researcher in Sport and Exercise Science at Auckland University of Technology (AUT) and a member of the Sports Performance Research Institute New Zealand (SPRINZ), an internationally recognized centre for applied sport science research.
-
-My work focuses on advancing base-running performance in baseball through data-driven, sport-specific assessment and training, with particular emphasis on the often-overlooked demands of curvilinear sprinting in game contexts.
-I developed the Curvilinear Ability Test (CAT), a novel field-based assessment designed to quantify baseball- and softball-specific curvilinear sprinting and change-of-direction performance. 
-
-Complementing this applied work, I have contributed research using MLB StatCast and Hawk-Eye data to establish updated normative values for base running performance in Major League Baseball and to show that linear sprint metrics alone do not adequately explain multiple-base running success.
-I hold a Master of Exercise Science (Exercise Physiology) from the University of Puerto Rico, Río Piedras Campus, where I built strong foundations in experimental design, statistical analysis, and applied sport physiology. I am also a CSCS,*D, with expertise in high-frequency wearable technologies for base-running diagnostics, including IMU foot pod systems and GPS.
-
-Beyond research, I am committed to strengthening sport science and sport medicine practice in Puerto Rico through leadership, collaboration, and professional development. I am particularly interested in helping emerging professionals translate scientific data into applied practice, improving communication across sport medicine, performance, and athlete support teams, and supporting informed decisions that address both acute and chronic injury risk.
-
-My long-term goal is to contribute with an MLB organization and elite baseball academy, helping integrate base running science into daily practice and performance decision-making. I aim to support a more evidence-based culture of player development by translating data into actionable strategies that enhance performance, reduce injury risk, and maximize athlete potential.
-
-</details>
+[Request a tailored quote](contact.qmd)

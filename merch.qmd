@@ -9,36 +9,36 @@ page-layout: full
 <div class="merch-hero">
 <div class="merch-kicker">BASE RUNNING SCIENCE</div>
 <h1>Base Running Merch Concept</h1>
-<p>A catalog concept connecting Base Running Science apparel. Individual prices are shown before shipping; set pricing is concept pricing.</p>
+<p>A catalog concept connecting Base Running Science™ apparel. Request a quote for availability, quantities and shipping.</p>
 </div>
 
 <div class="merch-section-head">
 <div>
 <h2>Individual Pieces</h2>
-<p>Current concept selling prices.</p>
+<p>Contact us for a tailored merchandise quote.</p>
 </div>
 </div>
 
 <div class="merch-product-grid">
 
 <div class="merch-product-card" data-shopify-id="short-sleeve">
-<div class="merch-photo-slot" data-image="assets/merch/short-sleeve.jpg"><span>Short Sleeve Photo<small>assets/merch/short-sleeve.jpg</small></span></div>
-<div class="merch-product-copy"><h3>Short Sleeve</h3><p>Performance Shirt</p><div class="merch-product-price">$35</div></div>
+<div class="merch-photo-slot" data-image="assets/merch/short-sleeve.jpg"><span>Short sleeve image forthcoming</span></div>
+<div class="merch-product-copy"><h3>Short Sleeve</h3><p>Performance Shirt</p></div>
 </div>
 
 <div class="merch-product-card" data-shopify-id="long-sleeve">
-<div class="merch-photo-slot" data-image="assets/merch/long-sleeve.jpg"><span>Long Sleeve Photo<small>assets/merch/long-sleeve.jpg</small></span></div>
-<div class="merch-product-copy"><h3>Long Sleeve</h3><p>Performance Shirt</p><div class="merch-product-price">$44</div></div>
+<div class="merch-photo-slot" data-image="assets/merch/long-sleeve.jpg"><span>Long sleeve image forthcoming</span></div>
+<div class="merch-product-copy"><h3>Long Sleeve</h3><p>Performance Shirt</p></div>
 </div>
 
 <div class="merch-product-card" data-shopify-id="sleeveless-hoodie">
-<div class="merch-photo-slot" data-image="assets/merch/hoodie.jpg"><span>Hoodie Photo<small>assets/merch/hoodie.jpg</small></span></div>
-<div class="merch-product-copy"><h3>Sleeveless Hoodie</h3><p>Performance Hoodie</p><div class="merch-product-price">$54</div></div>
+<div class="merch-photo-slot" data-image="assets/merch/hoodie.jpg"><span>Hoodie image forthcoming</span></div>
+<div class="merch-product-copy"><h3>Sleeveless Hoodie</h3><p>Performance Hoodie</p></div>
 </div>
 
 <div class="merch-product-card" data-shopify-id="training-shorts">
-<div class="merch-photo-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>Training Shorts Photo<small>assets/merch/training-shorts.jpg</small></span></div>
-<div class="merch-product-copy"><h3>Training Shorts</h3><p>Integrated Compression Liner</p><div class="merch-product-price">$34</div></div>
+<div class="merch-photo-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>Training Shorts Photo</span></div>
+<div class="merch-product-copy"><h3>Training Shorts</h3><p>Integrated Compression Liner</p></div>
 </div>
 
 </div>
@@ -57,7 +57,7 @@ page-layout: full
 <h3>Curvilinear Ability Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
 <p class="merch-includes">Short Sleeve + Training Shorts</p>
-<div class="merch-pricing"><strong>$66</strong><span>Regular $69 · Save $3</span></div>
+<p><a href="contact.html">Request a quote</a></p>
 </div>
 
 <div class="merch-bundle-card" data-shopify-id="linear-curvilinear-set">
@@ -65,7 +65,7 @@ page-layout: full
 <h3>Linear–Curvilinear Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
 <p class="merch-includes">Long Sleeve + Training Shorts</p>
-<div class="merch-pricing"><strong>$74</strong><span>Regular $78 · Save $4</span></div>
+<p><a href="contact.html">Request a quote</a></p>
 </div>
 
 <div class="merch-bundle-card" data-shopify-id="inside-outside-mechanics-set">
@@ -73,7 +73,7 @@ page-layout: full
 <h3>Inside–Outside Mechanics Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
 <p class="merch-includes">Sleeveless Hoodie + Training Shorts</p>
-<div class="merch-pricing"><strong>$84</strong><span>Regular $88 · Save $4</span></div>
+<p><a href="contact.html">Request a quote</a></p>
 </div>
 
 <div class="merch-bundle-card" data-shopify-id="need-for-speed-set">
@@ -81,7 +81,7 @@ page-layout: full
 <h3>The Need for Speed Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div></div>
 <p class="merch-includes">Short Sleeve + Long Sleeve</p>
-<div class="merch-pricing"><strong>$75</strong><span>Regular $79 · Save $4</span></div>
+<p><a href="contact.html">Request a quote</a></p>
 </div>
 
 <div class="merch-bundle-card" data-shopify-id="gps-diagnostics-set">
@@ -89,7 +89,7 @@ page-layout: full
 <h3>GPS Diagnostics Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div></div>
 <p class="merch-includes">Short Sleeve + Sleeveless Hoodie</p>
-<div class="merch-pricing"><strong>$85</strong><span>Regular $89 · Save $4</span></div>
+<p><a href="contact.html">Request a quote</a></p>
 </div>
 
 <div class="merch-bundle-card" data-shopify-id="imu-foot-pod-set">
@@ -97,7 +97,7 @@ page-layout: full
 <h3>IMU Foot-Pod Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div></div>
 <p class="merch-includes">Long Sleeve + Sleeveless Hoodie</p>
-<div class="merch-pricing"><strong>$93</strong><span>Regular $98 · Save $5</span></div>
+<p><a href="contact.html">Request a quote</a></p>
 </div>
 
 <div class="merch-bundle-card" data-shopify-id="segment-specific-analysis-set">
@@ -105,7 +105,7 @@ page-layout: full
 <h3>Segment-Specific Analysis Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
 <p class="merch-includes">Short Sleeve + Long Sleeve + Training Shorts</p>
-<div class="merch-pricing"><strong>$104</strong><span>Regular $113 · Save $9</span></div>
+<p><a href="contact.html">Request a quote</a></p>
 </div>
 
 <div class="merch-bundle-card" data-shopify-id="functional-asymmetry-set">
@@ -113,7 +113,7 @@ page-layout: full
 <h3>Functional Asymmetry Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
 <p class="merch-includes">Short Sleeve + Sleeveless Hoodie + Training Shorts</p>
-<div class="merch-pricing"><strong>$114</strong><span>Regular $123 · Save $9</span></div>
+<p><a href="contact.html">Request a quote</a></p>
 </div>
 
 <div class="merch-bundle-card" data-shopify-id="velocity-time-profile-set">
@@ -121,7 +121,7 @@ page-layout: full
 <h3>Velocity–Time Profile Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
 <p class="merch-includes">Long Sleeve + Sleeveless Hoodie + Training Shorts</p>
-<div class="merch-pricing"><strong>$122</strong><span>Regular $132 · Save $10</span></div>
+<p><a href="contact.html">Request a quote</a></p>
 </div>
 
 <div class="merch-bundle-card" data-shopify-id="new-perspectives-set">
@@ -129,15 +129,15 @@ page-layout: full
 <h3>New Perspectives Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div></div>
 <p class="merch-includes">Short Sleeve + Long Sleeve + Sleeveless Hoodie</p>
-<div class="merch-pricing"><strong>$123</strong><span>Regular $133 · Save $10</span></div>
+<p><a href="contact.html">Request a quote</a></p>
 </div>
 
 <div class="merch-bundle-card merch-bundle-featured" data-shopify-id="training-the-curve-complete-set">
 <div class="merch-bundle-meta"><span>11</span><span>Training the curve</span></div>
 <h3>Training the Curve Complete Set</h3>
 <div class="merch-mini-row"><div class="merch-mini-slot" data-image="assets/merch/short-sleeve.jpg"><span>SS</span></div><div class="merch-mini-slot" data-image="assets/merch/long-sleeve.jpg"><span>LS</span></div><div class="merch-mini-slot" data-image="assets/merch/hoodie.jpg"><span>HD</span></div><div class="merch-mini-slot" data-image="assets/merch/training-shorts.jpg?v=2"><span>TS</span></div></div>
-<p class="merch-includes">All four Base Running Science pieces</p>
-<div class="merch-pricing"><strong>$151</strong><span>Regular $167 · Save $16</span></div>
+<p class="merch-includes">All four Base Running Science™ pieces</p>
+<p><a href="contact.html">Request a quote</a></p>
 </div>
 
 </div>

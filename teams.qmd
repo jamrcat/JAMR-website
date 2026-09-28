@@ -1,0 +1,36 @@
+---
+title: "Teams and academies"
+---
+
+Base Running Science™ supports the coaches and specialists already responsible for your base running programme. We help investigate performance questions, interpret measurements and evaluate development approaches across an agreed group of athletes.
+
+## Assessment and validation
+
+| Service | Included scope |
+|---|---|
+| Academy assessment pilot A01 | Up to 10 athletes at one site; timing and video; baseline and retest over 8 weeks; 10 concise profiles; 2 staff calls. Client staff collect data. |
+| Professional diagnostic audit P01 | Up to 20 athletes at one site; one testing wave; timing, video and one approved GPS or IMU export; 20 profiles, team findings and a 90-minute debrief. Remote analysis. |
+| Professional validation pilot P02 | Up to 20 athletes; one site; baseline and retest over 8 weeks; timing, video and one approved GPS or IMU export; profiles, staff-approved development plan, 3 calls and final review. Client staff collect data and deliver training. |
+
+## Ongoing scientific support
+
+| Service | Monthly scope |
+|---|---|
+| Academy monitoring R01 | Up to 10 athletes; one standardized timing/video batch; review summary; one 45-minute call; 1 hour asynchronous support. |
+| Professional science partnership R02 | Up to 20 athletes; one standardized batch; technical memo; one 60-minute call; 2 hours asynchronous support. |
+
+Both monitoring services require a usable baseline and an initial three-month engagement. Renewal and cancellation terms are stated in your agreement. Additional batches and unlimited support are not included.
+
+## Field support and additions
+
+- **F01 Onsite field support:** up to 8 onsite hours and 20 athletes with your staff. Collection or implementation support; subsequent analysis and travel are separate.
+- **X01 Additional pilot athlete:** one additional athlete in both A01 or P02 waves at the same site, using the same protocol and formats, subject to capacity.
+- **X02 Additional data-source setup:** one documented GPS or IMU export, sample usability check and field mapping. No API integration, reverse engineering or device-validation study.
+
+## What your staff receive
+
+A defined report or profile, interpretation of the agreed measurements, and discussion of relevant development priorities. We explain limitations and do not assume that a faster test alone demonstrates better game decisions or additional runs scored.
+
+Client-specific data and plans are kept confidential. Working with Base Running Science™ does not require transferring organizational coaching authority or granting exclusivity.
+
+Request a tailored quote for your scope, location and schedule. [Discuss a team engagement](contact.qmd).

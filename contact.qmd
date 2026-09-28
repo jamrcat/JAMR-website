@@ -1,14 +1,14 @@
 ---
-title: ""
+title: "Contact"
 ---
 
-## Contact
+## General inquiries
 
-<div class="contact-row">
+For general questions, partnerships, media, merchandise questions, or other non-quote inquiries:
 
-<a class="pill" href="https://www.linkedin.com/in/jamr2021" target="_blank">LinkedIn</a>
-<a class="pill" href="https://instagram.com/jamrcat" target="_blank">Instagram</a>
+**[contact@jamrbaserunningscience.com](mailto:contact@jamrbaserunningscience.com)**
 
-</div>
+### Social
 
-<p class="contact-note">For now, the best way to reach me is through my social channels above.</p>
+[LinkedIn](https://www.linkedin.com/in/jamr2021){target="_blank"}  
+[Instagram](https://instagram.com/baserunningscience){target="_blank"}

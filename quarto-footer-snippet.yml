@@ -1,0 +1,14 @@
+# Add/merge this under `website:` in _quarto.yml.
+# Keep your existing navbar, including the Merch Concept item.
+page-footer:
+  left:
+    - text: "info@jamrbaserunningscience.com"
+      href: mailto:info@jamrbaserunningscience.com
+  center:
+    - icon: instagram
+      href: https://instagram.com/jamrcat/
+    - icon: linkedin
+      href: https://linkedin.com/in/jamr2021/
+  right:
+    - text: "Request a quote"
+      href: mailto:quote@jamrbaserunningscience.com

@@ -1,1 +1,1 @@
-Sitemap: https://jamrbaserunningscience.netlify.app/sitemap.xml
+Sitemap: www.jamrbaserunningscience.com/sitemap.xml
